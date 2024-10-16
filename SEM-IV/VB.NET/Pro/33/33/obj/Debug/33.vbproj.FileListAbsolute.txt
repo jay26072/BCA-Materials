@@ -1,0 +1,10 @@
+D:\BCA\Sem-IV\VB.NET\Pro\33\33\bin\Debug\33.exe.config
+D:\BCA\Sem-IV\VB.NET\Pro\33\33\bin\Debug\33.exe
+D:\BCA\Sem-IV\VB.NET\Pro\33\33\bin\Debug\33.pdb
+D:\BCA\Sem-IV\VB.NET\Pro\33\33\bin\Debug\33.xml
+D:\BCA\Sem-IV\VB.NET\Pro\33\33\obj\Debug\_33.Form1.resources
+D:\BCA\Sem-IV\VB.NET\Pro\33\33\obj\Debug\_33.Resources.resources
+D:\BCA\Sem-IV\VB.NET\Pro\33\33\obj\Debug\33.vbproj.GenerateResource.Cache
+D:\BCA\Sem-IV\VB.NET\Pro\33\33\obj\Debug\33.exe
+D:\BCA\Sem-IV\VB.NET\Pro\33\33\obj\Debug\33.xml
+D:\BCA\Sem-IV\VB.NET\Pro\33\33\obj\Debug\33.pdb

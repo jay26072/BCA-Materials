@@ -1,0 +1,20 @@
+V:\dot net\datadb\datadb\bin\Debug\datadb.exe.config
+V:\dot net\datadb\datadb\bin\Debug\datadb.exe
+V:\dot net\datadb\datadb\bin\Debug\datadb.pdb
+V:\dot net\datadb\datadb\bin\Debug\datadb.xml
+V:\dot net\datadb\datadb\obj\Debug\datadb.Form1.resources
+V:\dot net\datadb\datadb\obj\Debug\datadb.Resources.resources
+V:\dot net\datadb\datadb\obj\Debug\datadb.vbproj.GenerateResource.Cache
+V:\dot net\datadb\datadb\obj\Debug\datadb.exe
+V:\dot net\datadb\datadb\obj\Debug\datadb.xml
+V:\dot net\datadb\datadb\obj\Debug\datadb.pdb
+D:\BCA\Sem-IV\VB.NET\Pro\dbform-20220312T042643Z-001\datadb\datadb\bin\Debug\datadb.exe.config
+D:\BCA\Sem-IV\VB.NET\Pro\dbform-20220312T042643Z-001\datadb\datadb\obj\Debug\datadb.exe
+D:\BCA\Sem-IV\VB.NET\Pro\dbform-20220312T042643Z-001\datadb\datadb\obj\Debug\datadb.xml
+D:\BCA\Sem-IV\VB.NET\Pro\dbform-20220312T042643Z-001\datadb\datadb\obj\Debug\datadb.pdb
+D:\BCA\Sem-IV\VB.NET\Pro\dbform-20220312T042643Z-001\datadb\datadb\bin\Debug\datadb.exe
+D:\BCA\Sem-IV\VB.NET\Pro\dbform-20220312T042643Z-001\datadb\datadb\bin\Debug\datadb.pdb
+D:\BCA\Sem-IV\VB.NET\Pro\dbform-20220312T042643Z-001\datadb\datadb\bin\Debug\datadb.xml
+D:\BCA\Sem-IV\VB.NET\Pro\dbform-20220312T042643Z-001\datadb\datadb\obj\Debug\datadb.Form1.resources
+D:\BCA\Sem-IV\VB.NET\Pro\dbform-20220312T042643Z-001\datadb\datadb\obj\Debug\datadb.Resources.resources
+D:\BCA\Sem-IV\VB.NET\Pro\dbform-20220312T042643Z-001\datadb\datadb\obj\Debug\datadb.vbproj.GenerateResource.Cache

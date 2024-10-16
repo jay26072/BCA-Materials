@@ -1,0 +1,10 @@
+D:\BCA\Sem-IV\VB.NET\Pro\48\48\bin\Debug\48.exe.config
+D:\BCA\Sem-IV\VB.NET\Pro\48\48\bin\Debug\48.exe
+D:\BCA\Sem-IV\VB.NET\Pro\48\48\bin\Debug\48.pdb
+D:\BCA\Sem-IV\VB.NET\Pro\48\48\bin\Debug\48.xml
+D:\BCA\Sem-IV\VB.NET\Pro\48\48\obj\Debug\_48.Form1.resources
+D:\BCA\Sem-IV\VB.NET\Pro\48\48\obj\Debug\_48.Resources.resources
+D:\BCA\Sem-IV\VB.NET\Pro\48\48\obj\Debug\48.vbproj.GenerateResource.Cache
+D:\BCA\Sem-IV\VB.NET\Pro\48\48\obj\Debug\48.exe
+D:\BCA\Sem-IV\VB.NET\Pro\48\48\obj\Debug\48.xml
+D:\BCA\Sem-IV\VB.NET\Pro\48\48\obj\Debug\48.pdb

@@ -1,0 +1,10 @@
+D:\BCA\Sem-IV\VB.NET\Pro\factorial\factorial\bin\Debug\factorial.exe.config
+D:\BCA\Sem-IV\VB.NET\Pro\factorial\factorial\bin\Debug\factorial.exe
+D:\BCA\Sem-IV\VB.NET\Pro\factorial\factorial\bin\Debug\factorial.pdb
+D:\BCA\Sem-IV\VB.NET\Pro\factorial\factorial\bin\Debug\factorial.xml
+D:\BCA\Sem-IV\VB.NET\Pro\factorial\factorial\obj\Debug\factorial.Form1.resources
+D:\BCA\Sem-IV\VB.NET\Pro\factorial\factorial\obj\Debug\factorial.Resources.resources
+D:\BCA\Sem-IV\VB.NET\Pro\factorial\factorial\obj\Debug\factorial.vbproj.GenerateResource.Cache
+D:\BCA\Sem-IV\VB.NET\Pro\factorial\factorial\obj\Debug\factorial.exe
+D:\BCA\Sem-IV\VB.NET\Pro\factorial\factorial\obj\Debug\factorial.xml
+D:\BCA\Sem-IV\VB.NET\Pro\factorial\factorial\obj\Debug\factorial.pdb

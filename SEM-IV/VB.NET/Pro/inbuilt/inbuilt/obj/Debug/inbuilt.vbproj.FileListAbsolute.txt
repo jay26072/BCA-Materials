@@ -1,0 +1,10 @@
+D:\BCA\Sem-IV\VB.NET\Pro\inbuilt\inbuilt\bin\Debug\inbuilt.exe.config
+D:\BCA\Sem-IV\VB.NET\Pro\inbuilt\inbuilt\bin\Debug\inbuilt.exe
+D:\BCA\Sem-IV\VB.NET\Pro\inbuilt\inbuilt\bin\Debug\inbuilt.pdb
+D:\BCA\Sem-IV\VB.NET\Pro\inbuilt\inbuilt\bin\Debug\inbuilt.xml
+D:\BCA\Sem-IV\VB.NET\Pro\inbuilt\inbuilt\obj\Debug\inbuilt.Form1.resources
+D:\BCA\Sem-IV\VB.NET\Pro\inbuilt\inbuilt\obj\Debug\inbuilt.Resources.resources
+D:\BCA\Sem-IV\VB.NET\Pro\inbuilt\inbuilt\obj\Debug\inbuilt.vbproj.GenerateResource.Cache
+D:\BCA\Sem-IV\VB.NET\Pro\inbuilt\inbuilt\obj\Debug\inbuilt.exe
+D:\BCA\Sem-IV\VB.NET\Pro\inbuilt\inbuilt\obj\Debug\inbuilt.xml
+D:\BCA\Sem-IV\VB.NET\Pro\inbuilt\inbuilt\obj\Debug\inbuilt.pdb

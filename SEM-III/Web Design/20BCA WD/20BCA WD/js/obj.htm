@@ -1,0 +1,30 @@
+<html>
+<head>
+<script>
+	//Object Literal
+	var student=
+	{
+		id:"20BCA201",
+		name:"VNSGU",
+		marks:80,
+		address:"Surat"
+	};
+	var student =new Object();
+	student.name="RAM";
+	student["location"]="Ayodhya";
+	
+	function stud(name,location,age)
+	{
+		this.name=name;
+		this.location=location;
+		this.age=age;
+	}
+	student1 =new stud("RAM","AYODHYA",10000);
+	student2 =new stud("Laxman","Ayodhya",8000);
+	
+	document.write(student1.name+"<br>");
+	document.write(student1.location+"<br>");
+	document.write(student2.name+"<br>");
+</script>
+</head>
+</html>

@@ -1,0 +1,32 @@
+<!-- 
+Create object literal with the following details
+actor
+name,
+age,
+movie
+-->
+<html>
+<head>
+<script>
+	/*var actor=
+	{
+		name:"Akshay Kumar",
+		age:52,
+		movie:"Gabbar"
+	}*/
+	/*var actor=new Object();
+	actor.name="Akshay Kumar";
+	actor["age"]=52;
+	document.write(actor.name+"<br>");
+	document.write(actor["age"]); */
+	function act(name,age,movie)
+	{
+		this.name=name;
+		this.age=age;
+		this.movie=movie;
+	}
+	actor=new act("Akshay kumar",52,"Gabbar");
+	document.write(actor.name);
+</script>
+</head>
+</html>

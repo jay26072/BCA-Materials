@@ -1,0 +1,26 @@
+<HTML>
+	<HEAD>	
+		<script>
+			function sybca()
+			{
+				var a=parseInt(prompt("enter value of a"));
+				document.write("<table border='2'>");
+				for(var i=1;i<=10;i++)
+				{
+					document.write("<tr>");
+					document.write("<td>"+a+"</td>");
+					document.write("<td>x</td>");
+					document.write("<td>"+i+"</td>");
+					document.write("<td>=</td>");
+					document.write("<td>"+a*i+"</td>");
+					document.write("</tr>");
+				}
+				document.write("</table>");
+			}
+		</script>
+	</HEAD>
+	<BODY>
+		<INPUT TYPE="BUTTON" value="click me" onclick="sybca();">
+		
+	</BODY>
+</HTML>

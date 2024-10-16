@@ -1,0 +1,27 @@
+<!-- 
+WRITE A JAVASCRIPT CODE TO VALIDATE MOBILE NUMBER
+-->
+<html>
+ <head>
+  <script>
+   function valid()
+   {
+    var s=document.getElementById("txtmnum").value;
+	var p=/^[0-9]+$/;
+	if(s.length!=10)
+		alert("Mobile Numbers must contain 10 Digits");
+	else if (!s.match(p))
+		alert("Numbers Only");	
+	else
+		alert("valid");
+   }
+  </script>
+ </head>
+  
+ <body>
+   <form onsubmit="return valid();">
+   Enter Mobile Numbers:<input type="text" id="txtmnum" required>
+   <input type="submit">
+  </form>
+  </body>
+</html>

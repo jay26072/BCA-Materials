@@ -1,0 +1,25 @@
+<!-- 
+WRITE A JAVASCRIPT CODE TO VALIDATE Username
+-->
+<html>
+ <head>
+  <script>
+   function valid()
+   {
+    var s=document.getElementById("txtuname").value;
+	var p=/^[A-Za-z0-9]+$/;
+	if (s.match(p))
+		alert("valid");	
+	else
+		alert("invalid");
+   }
+  </script>
+ </head>
+  
+ <body>
+   <form onsubmit="return valid();">
+   Enter Username:<input type="text" id="txtuname" required>
+   <input type="submit">
+  </form>
+  </body>
+</html>

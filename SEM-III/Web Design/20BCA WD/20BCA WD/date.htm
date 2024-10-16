@@ -1,0 +1,25 @@
+<html>
+<head>
+<script>
+	/*var d=new Date();
+	/*document.write(d.getDate()+"<br>");
+	document.write(d.getDay()+"<br>");
+	document.write(d.getMonth()+"<br>");
+	document.write(d.getHours());*/
+	/*d.setDate(10);
+	d.setMonth(10);
+	document.write(d.getDate()+"<br>");
+	document.write(d.getMonth()+"<br>");
+	document.write(d.toString()+"<br>");*/
+	if (document.addEventListener) {
+    document.addEventListener('contextmenu', function(e) {
+        e.preventDefault();
+    }, false);
+} else {
+    document.attachEvent('oncontextmenu', function() {
+        window.event.returnValue = false;
+    });
+}
+</script>
+</head>
+</html>

@@ -1,0 +1,10 @@
+D:\BCA\Sem-IV\VB.NET\Pro\exam\grocery\grocery\bin\Debug\grocery.exe.config
+D:\BCA\Sem-IV\VB.NET\Pro\exam\grocery\grocery\bin\Debug\grocery.exe
+D:\BCA\Sem-IV\VB.NET\Pro\exam\grocery\grocery\bin\Debug\grocery.pdb
+D:\BCA\Sem-IV\VB.NET\Pro\exam\grocery\grocery\bin\Debug\grocery.xml
+D:\BCA\Sem-IV\VB.NET\Pro\exam\grocery\grocery\obj\Debug\grocery.Form1.resources
+D:\BCA\Sem-IV\VB.NET\Pro\exam\grocery\grocery\obj\Debug\grocery.Resources.resources
+D:\BCA\Sem-IV\VB.NET\Pro\exam\grocery\grocery\obj\Debug\grocery.vbproj.GenerateResource.Cache
+D:\BCA\Sem-IV\VB.NET\Pro\exam\grocery\grocery\obj\Debug\grocery.exe
+D:\BCA\Sem-IV\VB.NET\Pro\exam\grocery\grocery\obj\Debug\grocery.xml
+D:\BCA\Sem-IV\VB.NET\Pro\exam\grocery\grocery\obj\Debug\grocery.pdb

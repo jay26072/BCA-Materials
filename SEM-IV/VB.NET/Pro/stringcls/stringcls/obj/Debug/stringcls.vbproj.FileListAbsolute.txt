@@ -1,0 +1,10 @@
+D:\BCA\Sem-IV\VB.NET\Pro\stringcls\stringcls\bin\Debug\stringcls.exe.config
+D:\BCA\Sem-IV\VB.NET\Pro\stringcls\stringcls\bin\Debug\stringcls.exe
+D:\BCA\Sem-IV\VB.NET\Pro\stringcls\stringcls\bin\Debug\stringcls.pdb
+D:\BCA\Sem-IV\VB.NET\Pro\stringcls\stringcls\bin\Debug\stringcls.xml
+D:\BCA\Sem-IV\VB.NET\Pro\stringcls\stringcls\obj\Debug\stringcls.Form1.resources
+D:\BCA\Sem-IV\VB.NET\Pro\stringcls\stringcls\obj\Debug\stringcls.Resources.resources
+D:\BCA\Sem-IV\VB.NET\Pro\stringcls\stringcls\obj\Debug\stringcls.vbproj.GenerateResource.Cache
+D:\BCA\Sem-IV\VB.NET\Pro\stringcls\stringcls\obj\Debug\stringcls.exe
+D:\BCA\Sem-IV\VB.NET\Pro\stringcls\stringcls\obj\Debug\stringcls.xml
+D:\BCA\Sem-IV\VB.NET\Pro\stringcls\stringcls\obj\Debug\stringcls.pdb

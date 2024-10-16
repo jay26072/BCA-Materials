@@ -1,0 +1,10 @@
+D:\BCA\Sem-IV\VB.NET\Pro\prime\prime\bin\Debug\prime.exe.config
+D:\BCA\Sem-IV\VB.NET\Pro\prime\prime\bin\Debug\prime.exe
+D:\BCA\Sem-IV\VB.NET\Pro\prime\prime\bin\Debug\prime.pdb
+D:\BCA\Sem-IV\VB.NET\Pro\prime\prime\bin\Debug\prime.xml
+D:\BCA\Sem-IV\VB.NET\Pro\prime\prime\obj\Debug\prime.Form1.resources
+D:\BCA\Sem-IV\VB.NET\Pro\prime\prime\obj\Debug\prime.Resources.resources
+D:\BCA\Sem-IV\VB.NET\Pro\prime\prime\obj\Debug\prime.vbproj.GenerateResource.Cache
+D:\BCA\Sem-IV\VB.NET\Pro\prime\prime\obj\Debug\prime.exe
+D:\BCA\Sem-IV\VB.NET\Pro\prime\prime\obj\Debug\prime.xml
+D:\BCA\Sem-IV\VB.NET\Pro\prime\prime\obj\Debug\prime.pdb

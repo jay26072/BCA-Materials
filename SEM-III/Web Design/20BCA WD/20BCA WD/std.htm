@@ -1,0 +1,59 @@
+<!-- MAKE A REGISTRATION FORM FOR STUDENT ADMISSION IN BCA COLLEGE -->
+<HTML>
+<HEAD>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ" crossorigin="anonymous"></script>
+</HEAD>
+<BODY>
+<FORM METHOD="POST">
+<H2 ALIGN="CENTER">ADMISSION FORM</H2>
+<DIV class="">
+	<LABEL>STUDENT FULL NAME</LABEL>
+	<INPUT TYPE="TEXT" NAME="TXTSNAME" class="form-control" REQUIRED >
+</DIV>
+<DIV class="">
+	<LABEL>STUDENT DEPARTMENT</LABEL>
+	<select NAME="CMBDEPT" class="form-control"  REQUIRED>
+		<option>Select Department</option>
+		<option>BCA</option>
+		<option>BBA</option>
+		<option>MCA</option>
+		<option>MBA</option>
+	</select>
+</DIV>
+<DIV class="">
+	<LABEL>STUDENT STREAM</LABEL>
+	<INPUT TYPE="RADIO" NAME="RDOSTREAM" > SCIENCE A GROUP
+	<INPUT TYPE="RADIO" NAME="RDOSTREAM" > SCIENCE B GROUP
+	<INPUT TYPE="RADIO" NAME="RDOSTREAM" > SCIENCE A & B GROUP
+	<INPUT TYPE="RADIO" NAME="RDOSTREAM" CHECKED > COMMERCE
+</DIV>
+<DIV class="">
+	<LABEL>PASSING YEAR</LABEL>
+	<INPUT TYPE="MONTH" NAME="TXTPYEAR" class="form-control"  REQUIRED>
+</DIV>
+<DIV class="">
+	<LABEL>PERCENTAGE</LABEL>
+	<INPUT TYPE="NUMBER" NAME="TXTPER" class="form-control"  REQUIRED>
+</DIV>
+<DIV class="">
+	<LABEL>CELL NUMBER</LABEL>
+	<SELECT NAME="CMBCCODE"CLASS="FORM-CONTROL" REQUIRED>
+		<OPTION>SELECT COUNTRY CODE</OPTION>
+		<OPTION>+91</OPTION>
+		<OPTION>+92</OPTION>
+	</SELECT>
+	<INPUT TYPE="TEXT" NAME="TXTSNAME" class="form-control" REQUIRED >
+</DIV>
+<DIV class="">
+	<LABEL>12<SUP>TH</SUP> MARKSHEET</LABEL>
+	<INPUT TYPE="FILE" NAME="FILEMS" class="form-control"  REQUIRED>
+</DIV>
+
+<DIV class="">
+	<INPUT TYPE="SUBMIT" CLASS="BTN BTN-PRIMARY FORM-CONTROL">
+	<INPUT TYPE="RESET" CLASS="BTN BTN-DANGER FORM-CONTROL">
+</DIV>
+</FORM>
+</BODY>
+</HTML>

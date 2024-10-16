@@ -1,0 +1,20 @@
+<html>
+<head>
+<script>
+function validate()
+{
+	var a=document.getElementById("txt").value;
+	if(a=="")
+		alert("Please Enter Data");
+	else
+		alert("You have Entered : "+a);
+}
+</script>
+</head>
+<body>
+<form onsubmit="validate();">
+	Name : <input type="text" name="txt" id="txt">
+	<input type="submit" value="Submit">
+</form>
+</body>
+</html>

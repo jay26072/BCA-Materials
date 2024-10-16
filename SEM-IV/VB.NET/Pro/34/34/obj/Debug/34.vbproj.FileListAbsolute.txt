@@ -1,0 +1,10 @@
+D:\BCA\Sem-IV\VB.NET\Pro\34\34\bin\Debug\34.exe.config
+D:\BCA\Sem-IV\VB.NET\Pro\34\34\obj\Debug\_34.Form1.resources
+D:\BCA\Sem-IV\VB.NET\Pro\34\34\obj\Debug\_34.Resources.resources
+D:\BCA\Sem-IV\VB.NET\Pro\34\34\obj\Debug\34.vbproj.GenerateResource.Cache
+D:\BCA\Sem-IV\VB.NET\Pro\34\34\bin\Debug\34.exe
+D:\BCA\Sem-IV\VB.NET\Pro\34\34\bin\Debug\34.pdb
+D:\BCA\Sem-IV\VB.NET\Pro\34\34\bin\Debug\34.xml
+D:\BCA\Sem-IV\VB.NET\Pro\34\34\obj\Debug\34.exe
+D:\BCA\Sem-IV\VB.NET\Pro\34\34\obj\Debug\34.xml
+D:\BCA\Sem-IV\VB.NET\Pro\34\34\obj\Debug\34.pdb

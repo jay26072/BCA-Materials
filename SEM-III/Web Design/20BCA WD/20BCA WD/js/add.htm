@@ -1,0 +1,27 @@
+<!-- 
+WRITE A JAVASCRIPT CODE TO ACCEPT 2 NUMBERS FROM USER AND ON FORM SUBMISSION 
+DISPLAY ADDITIION IN THIRD TEXTBOX
+-->
+<html>
+<head>
+<script>
+	function call()
+	{
+		var a=parseInt(document.getElementsByName("txta")[0].value);
+		var b=parseInt(document.getElementsByName("txtb")[0].value);
+		var c=parseInt(document.getElementsByName("txtc")[0].value);
+		var d=a+b+c;
+		document.getElementsByName("txtd")[0].value=d;
+		return false;
+	}
+</script>
+</head>
+<body>
+<form method="post" name="frm" onsubmit="return call();">
+Enter Value of A : <input type="text" name="txta" required> <br>
+Enter Value of B : <input type="text" name="txtb" required><br>
+Enter Value of C : <input type="text" name="txtc" required><br>
+Result : <input type="text" name="txtd" disabled><br>
+<input type="submit" value="click Me">
+</body>
+</html>

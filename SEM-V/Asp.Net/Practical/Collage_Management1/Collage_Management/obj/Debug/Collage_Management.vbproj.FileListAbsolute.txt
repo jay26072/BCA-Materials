@@ -1,0 +1,8 @@
+D:\BCA\Sem-V\Asp.Net\Practical\Collage_Management\Collage_Management\bin\Collage_Management.dll
+D:\BCA\Sem-V\Asp.Net\Practical\Collage_Management\Collage_Management\bin\Collage_Management.pdb
+D:\BCA\Sem-V\Asp.Net\Practical\Collage_Management\Collage_Management\bin\Collage_Management.xml
+D:\BCA\Sem-V\Asp.Net\Practical\Collage_Management\Collage_Management\obj\Debug\Collage_Management.Resources.resources
+D:\BCA\Sem-V\Asp.Net\Practical\Collage_Management\Collage_Management\obj\Debug\Collage_Management.vbproj.GenerateResource.Cache
+D:\BCA\Sem-V\Asp.Net\Practical\Collage_Management\Collage_Management\obj\Debug\Collage_Management.dll
+D:\BCA\Sem-V\Asp.Net\Practical\Collage_Management\Collage_Management\obj\Debug\Collage_Management.xml
+D:\BCA\Sem-V\Asp.Net\Practical\Collage_Management\Collage_Management\obj\Debug\Collage_Management.pdb

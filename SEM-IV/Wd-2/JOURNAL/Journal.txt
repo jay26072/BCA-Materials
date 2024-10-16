@@ -1,0 +1,43 @@
+1. WRITE AN XML CODE TO READ TEXT FILE AND DISPLAY DATA ON BROWSER.
+2. WRITE AN XML CODE TO READ THE FOLLOWING XML FILE.
+        data.xml
+        <students>
+                <stud>
+                        <name>Ram</name>
+                        <age>500000</age>
+                        <email>ram@gmail.com</email>
+                        <cell>9876543210</cell>
+                        <address>Ayodhya</address>
+                </stud>
+                <stud>
+                        <name>Laxman</name>
+                        <age>300000</age>
+                        <email>laxman@gmail.com</email>
+                        <cell>9988776655</cell>
+                        <address>Ayodhya</address>
+                </stud>
+        </students>
+3. WRITE AN XML CODE TO READ THE FOLLOWING JSON FILE.
+        data.json
+        {"employees":[
+        { "firstName":“Virat", "lastName":“Kohli" },
+        { "firstName":“RohIT", "lastName":"Sharma" },
+        { "firstName":“Ravindra", "lastName":“Jadeja" }
+]}
+4. WRITE JQUERY CODE TO show(), hide() AND toggle() METHODS.
+5. WRITE JQUERY CODE TO fadeIn(),fadeOut() AND fadeToggle() METHODS.
+6. WRITE JQUERY CODE TO slideUp(),slideDown() AND slideToggle() METHODS.
+7. WRITE JQUERY CODE TO SHOW fadeTo() METHOD.
+8. WRITE JQUERY CODE TO SHOW CALLBACK METHODS. (SHOW ATLEAST 5 METHODS).
+9. WRITE JQUERY CODE TO SHOW CHAINING METHODS (hide(), show(), fadeTo(), slideUp(), slideDown()).
+10. WRITE JQUERY CODE TO DEMONSTRATE HTML GET METHODS.(text(), attr(), html(), val()).
+11. WRITE JQUERY CODE TO DEMONSTRATE HTML SET METHODS.(text(), attr(), html(), val()).
+12. WRITE JQUERY CODE TO SHOW append(), prepend(), after(), before()).
+13. WRITE JQUERY CODE TO DEMONSTRATE remove() AND empty() METHODS.
+14. WRITE JQUERY CODE TO DEMONSTRATE wrap() AND unwrap() METHODS.
+15. WRITE JQUERY CODE TO DEMONSTRATE addClass(), removeClass() and toggleClass().
+16. WRITE NODE.JS CODE TO CREATE SERVER AND DISPLAY YOUR NAME ON BROWSER.
+17. WRITE NODE.JS CODE TO CREATE A MODULE CALLED mymodule WHICH CONTAIN (square() and cube()).
+18. WRITE NODE.JS CODE TO SHOW QUERYSITRNG DEMO.
+19. WRITE NODE.JS CODE TO CREATE A FILE NAME MYDATA.TXT (USE ALL POSSIBLE METHODS).
+20. WRITE NODE.JS CODE TO UPDATE A FIKE NAME MYDATA.TXT (USE ALL POSSIBLE MEHTODS).

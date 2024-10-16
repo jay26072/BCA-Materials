@@ -1,0 +1,12 @@
+1. Explain link tag in detail with all attributes.
+2. Explain <form> Elements.
+3. What is bootstrap? Explain its grid structure with proper diagram.
+4. Write a note on button and button groups in bootstraps.
+5. Explain <form> Attributes.
+6. Explain form controls with example.
+7. Explain <img> tag with attributes.
+8. Explain Images and Media classes of Bootstrap.
+9. Explain bootstrap grid structure.
+10. Explain Pagination classes of Bootsrap.
+11. Explain inline, internal(embedded) and external style sheet with example.
+12. Explain <audio> and <video> tags with attributes.

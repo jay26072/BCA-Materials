@@ -1,0 +1,10 @@
+D:\BCA\Sem-IV\VB.NET\Pro\textbox\textbox\bin\Debug\textbox.exe.config
+D:\BCA\Sem-IV\VB.NET\Pro\textbox\textbox\bin\Debug\textbox.exe
+D:\BCA\Sem-IV\VB.NET\Pro\textbox\textbox\bin\Debug\textbox.pdb
+D:\BCA\Sem-IV\VB.NET\Pro\textbox\textbox\bin\Debug\textbox.xml
+D:\BCA\Sem-IV\VB.NET\Pro\textbox\textbox\obj\Debug\textbox.Form1.resources
+D:\BCA\Sem-IV\VB.NET\Pro\textbox\textbox\obj\Debug\textbox.Resources.resources
+D:\BCA\Sem-IV\VB.NET\Pro\textbox\textbox\obj\Debug\textbox.vbproj.GenerateResource.Cache
+D:\BCA\Sem-IV\VB.NET\Pro\textbox\textbox\obj\Debug\textbox.exe
+D:\BCA\Sem-IV\VB.NET\Pro\textbox\textbox\obj\Debug\textbox.xml
+D:\BCA\Sem-IV\VB.NET\Pro\textbox\textbox\obj\Debug\textbox.pdb

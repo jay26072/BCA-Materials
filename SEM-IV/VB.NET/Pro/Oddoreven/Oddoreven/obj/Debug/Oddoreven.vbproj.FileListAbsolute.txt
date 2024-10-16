@@ -1,0 +1,10 @@
+D:\BCA\Sem-IV\VB.NET\Pro\Oddoreven\Oddoreven\bin\Debug\Oddoreven.exe.config
+D:\BCA\Sem-IV\VB.NET\Pro\Oddoreven\Oddoreven\bin\Debug\Oddoreven.exe
+D:\BCA\Sem-IV\VB.NET\Pro\Oddoreven\Oddoreven\bin\Debug\Oddoreven.pdb
+D:\BCA\Sem-IV\VB.NET\Pro\Oddoreven\Oddoreven\bin\Debug\Oddoreven.xml
+D:\BCA\Sem-IV\VB.NET\Pro\Oddoreven\Oddoreven\obj\Debug\Oddoreven.Form1.resources
+D:\BCA\Sem-IV\VB.NET\Pro\Oddoreven\Oddoreven\obj\Debug\Oddoreven.Resources.resources
+D:\BCA\Sem-IV\VB.NET\Pro\Oddoreven\Oddoreven\obj\Debug\Oddoreven.vbproj.GenerateResource.Cache
+D:\BCA\Sem-IV\VB.NET\Pro\Oddoreven\Oddoreven\obj\Debug\Oddoreven.exe
+D:\BCA\Sem-IV\VB.NET\Pro\Oddoreven\Oddoreven\obj\Debug\Oddoreven.xml
+D:\BCA\Sem-IV\VB.NET\Pro\Oddoreven\Oddoreven\obj\Debug\Oddoreven.pdb

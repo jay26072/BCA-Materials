@@ -1,0 +1,10 @@
+D:\BCA\Sem-IV\VB.NET\Pro\backdai\backdai\bin\Debug\backdai.exe.config
+D:\BCA\Sem-IV\VB.NET\Pro\backdai\backdai\bin\Debug\backdai.exe
+D:\BCA\Sem-IV\VB.NET\Pro\backdai\backdai\bin\Debug\backdai.pdb
+D:\BCA\Sem-IV\VB.NET\Pro\backdai\backdai\bin\Debug\backdai.xml
+D:\BCA\Sem-IV\VB.NET\Pro\backdai\backdai\obj\Debug\backdai.Form1.resources
+D:\BCA\Sem-IV\VB.NET\Pro\backdai\backdai\obj\Debug\backdai.Resources.resources
+D:\BCA\Sem-IV\VB.NET\Pro\backdai\backdai\obj\Debug\backdai.vbproj.GenerateResource.Cache
+D:\BCA\Sem-IV\VB.NET\Pro\backdai\backdai\obj\Debug\backdai.exe
+D:\BCA\Sem-IV\VB.NET\Pro\backdai\backdai\obj\Debug\backdai.xml
+D:\BCA\Sem-IV\VB.NET\Pro\backdai\backdai\obj\Debug\backdai.pdb

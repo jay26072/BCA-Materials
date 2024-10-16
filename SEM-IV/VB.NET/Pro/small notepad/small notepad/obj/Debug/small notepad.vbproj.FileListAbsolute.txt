@@ -1,0 +1,10 @@
+D:\BCA\Sem-IV\VB.NET\Pro\small notepad\small notepad\bin\Debug\small notepad.exe.config
+D:\BCA\Sem-IV\VB.NET\Pro\small notepad\small notepad\bin\Debug\small notepad.exe
+D:\BCA\Sem-IV\VB.NET\Pro\small notepad\small notepad\bin\Debug\small notepad.pdb
+D:\BCA\Sem-IV\VB.NET\Pro\small notepad\small notepad\bin\Debug\small notepad.xml
+D:\BCA\Sem-IV\VB.NET\Pro\small notepad\small notepad\obj\Debug\small_notepad.Form1.resources
+D:\BCA\Sem-IV\VB.NET\Pro\small notepad\small notepad\obj\Debug\small_notepad.Resources.resources
+D:\BCA\Sem-IV\VB.NET\Pro\small notepad\small notepad\obj\Debug\small notepad.vbproj.GenerateResource.Cache
+D:\BCA\Sem-IV\VB.NET\Pro\small notepad\small notepad\obj\Debug\small notepad.exe
+D:\BCA\Sem-IV\VB.NET\Pro\small notepad\small notepad\obj\Debug\small notepad.xml
+D:\BCA\Sem-IV\VB.NET\Pro\small notepad\small notepad\obj\Debug\small notepad.pdb

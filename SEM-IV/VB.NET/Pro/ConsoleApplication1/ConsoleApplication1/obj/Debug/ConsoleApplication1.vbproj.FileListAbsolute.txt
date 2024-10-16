@@ -1,0 +1,9 @@
+D:\BCA\Sem-IV\VB.NET\Pro\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\BCA\Sem-IV\VB.NET\Pro\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\BCA\Sem-IV\VB.NET\Pro\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\BCA\Sem-IV\VB.NET\Pro\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.xml
+D:\BCA\Sem-IV\VB.NET\Pro\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.Resources.resources
+D:\BCA\Sem-IV\VB.NET\Pro\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.vbproj.GenerateResource.Cache
+D:\BCA\Sem-IV\VB.NET\Pro\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\BCA\Sem-IV\VB.NET\Pro\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.xml
+D:\BCA\Sem-IV\VB.NET\Pro\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

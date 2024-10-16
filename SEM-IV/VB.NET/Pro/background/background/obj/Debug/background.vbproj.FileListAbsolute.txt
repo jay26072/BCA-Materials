@@ -1,0 +1,10 @@
+D:\BCA\Sem-IV\VB.NET\Pro\background\background\bin\Debug\background.exe.config
+D:\BCA\Sem-IV\VB.NET\Pro\background\background\bin\Debug\background.exe
+D:\BCA\Sem-IV\VB.NET\Pro\background\background\bin\Debug\background.pdb
+D:\BCA\Sem-IV\VB.NET\Pro\background\background\bin\Debug\background.xml
+D:\BCA\Sem-IV\VB.NET\Pro\background\background\obj\Debug\background.Form1.resources
+D:\BCA\Sem-IV\VB.NET\Pro\background\background\obj\Debug\background.Resources.resources
+D:\BCA\Sem-IV\VB.NET\Pro\background\background\obj\Debug\background.vbproj.GenerateResource.Cache
+D:\BCA\Sem-IV\VB.NET\Pro\background\background\obj\Debug\background.exe
+D:\BCA\Sem-IV\VB.NET\Pro\background\background\obj\Debug\background.xml
+D:\BCA\Sem-IV\VB.NET\Pro\background\background\obj\Debug\background.pdb

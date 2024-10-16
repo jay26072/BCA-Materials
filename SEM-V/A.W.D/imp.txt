@@ -1,0 +1,12 @@
+1.What is NOSQL? Explain advantages and Data types in detail.
+
+2.What is Component? Explain different types of Components with example.
+
+3.What is the use of Hooks? Explain any 3 built in hooks with example.
+
+4.Explain different types of filters in detail with example.
+
+5.Explain Directives with example :
+	ng-app, ng-init, ng-controller, ng-model, ng-repeat
+
+6.Explain React features with advantages and disadvantages.

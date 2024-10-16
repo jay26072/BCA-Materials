@@ -1,0 +1,8 @@
+D:\BCA\Sem-V\Asp.Net\Practical\form1\form1\bin\form1.dll
+D:\BCA\Sem-V\Asp.Net\Practical\form1\form1\bin\form1.pdb
+D:\BCA\Sem-V\Asp.Net\Practical\form1\form1\bin\form1.xml
+D:\BCA\Sem-V\Asp.Net\Practical\form1\form1\obj\Debug\form1.Resources.resources
+D:\BCA\Sem-V\Asp.Net\Practical\form1\form1\obj\Debug\form1.vbproj.GenerateResource.Cache
+D:\BCA\Sem-V\Asp.Net\Practical\form1\form1\obj\Debug\form1.dll
+D:\BCA\Sem-V\Asp.Net\Practical\form1\form1\obj\Debug\form1.xml
+D:\BCA\Sem-V\Asp.Net\Practical\form1\form1\obj\Debug\form1.pdb

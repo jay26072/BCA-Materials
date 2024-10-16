@@ -1,0 +1,10 @@
+D:\BCA\Sem-IV\VB.NET\Pro\trackbar\trackbar\bin\Debug\trackbar.exe.config
+D:\BCA\Sem-IV\VB.NET\Pro\trackbar\trackbar\bin\Debug\trackbar.exe
+D:\BCA\Sem-IV\VB.NET\Pro\trackbar\trackbar\bin\Debug\trackbar.pdb
+D:\BCA\Sem-IV\VB.NET\Pro\trackbar\trackbar\bin\Debug\trackbar.xml
+D:\BCA\Sem-IV\VB.NET\Pro\trackbar\trackbar\obj\Debug\trackbar.Form1.resources
+D:\BCA\Sem-IV\VB.NET\Pro\trackbar\trackbar\obj\Debug\trackbar.Resources.resources
+D:\BCA\Sem-IV\VB.NET\Pro\trackbar\trackbar\obj\Debug\trackbar.vbproj.GenerateResource.Cache
+D:\BCA\Sem-IV\VB.NET\Pro\trackbar\trackbar\obj\Debug\trackbar.exe
+D:\BCA\Sem-IV\VB.NET\Pro\trackbar\trackbar\obj\Debug\trackbar.xml
+D:\BCA\Sem-IV\VB.NET\Pro\trackbar\trackbar\obj\Debug\trackbar.pdb

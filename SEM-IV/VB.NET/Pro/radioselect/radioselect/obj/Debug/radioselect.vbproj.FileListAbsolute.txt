@@ -1,0 +1,10 @@
+D:\BCA\Sem-IV\VB.NET\Pro\radioselect\radioselect\bin\Debug\radioselect.exe.config
+D:\BCA\Sem-IV\VB.NET\Pro\radioselect\radioselect\bin\Debug\radioselect.exe
+D:\BCA\Sem-IV\VB.NET\Pro\radioselect\radioselect\bin\Debug\radioselect.pdb
+D:\BCA\Sem-IV\VB.NET\Pro\radioselect\radioselect\bin\Debug\radioselect.xml
+D:\BCA\Sem-IV\VB.NET\Pro\radioselect\radioselect\obj\Debug\radioselect.Form1.resources
+D:\BCA\Sem-IV\VB.NET\Pro\radioselect\radioselect\obj\Debug\radioselect.Resources.resources
+D:\BCA\Sem-IV\VB.NET\Pro\radioselect\radioselect\obj\Debug\radioselect.vbproj.GenerateResource.Cache
+D:\BCA\Sem-IV\VB.NET\Pro\radioselect\radioselect\obj\Debug\radioselect.exe
+D:\BCA\Sem-IV\VB.NET\Pro\radioselect\radioselect\obj\Debug\radioselect.xml
+D:\BCA\Sem-IV\VB.NET\Pro\radioselect\radioselect\obj\Debug\radioselect.pdb

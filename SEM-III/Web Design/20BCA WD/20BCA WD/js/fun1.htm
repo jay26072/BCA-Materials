@@ -1,0 +1,21 @@
+<!-- WRITE A JAVASCRIPT CODE TO VALIDATE BLANK FIELD -->
+<html>
+<head>
+<script>		
+	function validate()
+	{
+		var s=document.getElementById("txt").value;
+		if(s=="")
+			document.getElementById("div1").innerHTML="<font color='red'>Please Fill this Field</font>";
+			return false;
+	}
+</script>
+</head>
+<body>
+<form onsubmit="return validate();">
+Enter Any Value :
+<input type="text" id="txt" > <div id="div1"></div>
+<input type="submit">
+</form>
+</body>
+</html>

@@ -1,0 +1,10 @@
+D:\BCA\Sem-IV\VB.NET\Pro\Notepad\Notepad\bin\Debug\Notepad.exe.config
+D:\BCA\Sem-IV\VB.NET\Pro\Notepad\Notepad\bin\Debug\Notepad.exe
+D:\BCA\Sem-IV\VB.NET\Pro\Notepad\Notepad\bin\Debug\Notepad.pdb
+D:\BCA\Sem-IV\VB.NET\Pro\Notepad\Notepad\bin\Debug\Notepad.xml
+D:\BCA\Sem-IV\VB.NET\Pro\Notepad\Notepad\obj\Debug\Notepad.Resources.resources
+D:\BCA\Sem-IV\VB.NET\Pro\Notepad\Notepad\obj\Debug\Notepad.vbproj.GenerateResource.Cache
+D:\BCA\Sem-IV\VB.NET\Pro\Notepad\Notepad\obj\Debug\Notepad.exe
+D:\BCA\Sem-IV\VB.NET\Pro\Notepad\Notepad\obj\Debug\Notepad.xml
+D:\BCA\Sem-IV\VB.NET\Pro\Notepad\Notepad\obj\Debug\Notepad.pdb
+D:\BCA\Sem-IV\VB.NET\Pro\Notepad\Notepad\obj\Debug\Notepad.Notepad.resources

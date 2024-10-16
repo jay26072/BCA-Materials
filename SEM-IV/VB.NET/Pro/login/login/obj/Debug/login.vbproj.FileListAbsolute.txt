@@ -1,0 +1,20 @@
+V:\dot net\login\login\bin\Debug\login.exe.config
+V:\dot net\login\login\bin\Debug\login.exe
+V:\dot net\login\login\bin\Debug\login.pdb
+V:\dot net\login\login\bin\Debug\login.xml
+V:\dot net\login\login\obj\Debug\login.Form1.resources
+V:\dot net\login\login\obj\Debug\login.Resources.resources
+V:\dot net\login\login\obj\Debug\login.vbproj.GenerateResource.Cache
+V:\dot net\login\login\obj\Debug\login.exe
+V:\dot net\login\login\obj\Debug\login.xml
+V:\dot net\login\login\obj\Debug\login.pdb
+D:\BCA\Sem-IV\VB.NET\Pro\login\login\bin\Debug\login.exe.config
+D:\BCA\Sem-IV\VB.NET\Pro\login\login\obj\Debug\login.exe
+D:\BCA\Sem-IV\VB.NET\Pro\login\login\obj\Debug\login.xml
+D:\BCA\Sem-IV\VB.NET\Pro\login\login\obj\Debug\login.pdb
+D:\BCA\Sem-IV\VB.NET\Pro\login\login\bin\Debug\login.exe
+D:\BCA\Sem-IV\VB.NET\Pro\login\login\bin\Debug\login.pdb
+D:\BCA\Sem-IV\VB.NET\Pro\login\login\bin\Debug\login.xml
+D:\BCA\Sem-IV\VB.NET\Pro\login\login\obj\Debug\login.Form1.resources
+D:\BCA\Sem-IV\VB.NET\Pro\login\login\obj\Debug\login.Resources.resources
+D:\BCA\Sem-IV\VB.NET\Pro\login\login\obj\Debug\login.vbproj.GenerateResource.Cache

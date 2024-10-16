@@ -1,0 +1,52 @@
+.Journal:
+
+1. Write a program to check given number is Prime or not.
+
+2. Write a program to sort and array of size 10.
+
+3. Write a program to searh an element from the array of size 10.
+
+4. Write a program to print 1 to n even numbers.
+
+5. Write a program to check inputted number is positive or negative.
+
+6. Write a program to print maximum element from one dimensional array of size 10.
+
+7. Write a program to count an occurance of accepted character from string.
+
+8. Write a program to to print fibonacci series.
+
+9. Write a program to add even numbers between 1 to n.
+
+*/10. Write a menu driven program to perform the following:
+1. Addition
+2. Substraction
+3. Mulitplication
+4. division
+
+11. Write a menu driven program to perform the following:
+1. Square
+2. Cube
+3. Exit
+
+*/12. Write a menu driven program to perform the following:
+A. Addition
+B. Substraction
+C. Mulitplication
+D. division
+
+*/13. Write a menu driven program to perform the following:
++. Addition
+-. Substraction
+*. Mulitplication
+/. division
+
+14. Write a menu driven program to perform the following:
+S or s. Square
+C or c. Cube
+E or e. Exit
+
+15. Write a menu driven program to perform the following:
+1. Maximum of 2 numbers
+2. Minimum of 2 numbers
+3. Exit

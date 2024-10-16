@@ -1,0 +1,10 @@
+D:\BCA\Sem-IV\VB.NET\Pro\process\process\bin\Debug\process.exe.config
+D:\BCA\Sem-IV\VB.NET\Pro\process\process\bin\Debug\process.exe
+D:\BCA\Sem-IV\VB.NET\Pro\process\process\bin\Debug\process.pdb
+D:\BCA\Sem-IV\VB.NET\Pro\process\process\bin\Debug\process.xml
+D:\BCA\Sem-IV\VB.NET\Pro\process\process\obj\Debug\process.Form1.resources
+D:\BCA\Sem-IV\VB.NET\Pro\process\process\obj\Debug\process.Resources.resources
+D:\BCA\Sem-IV\VB.NET\Pro\process\process\obj\Debug\process.vbproj.GenerateResource.Cache
+D:\BCA\Sem-IV\VB.NET\Pro\process\process\obj\Debug\process.exe
+D:\BCA\Sem-IV\VB.NET\Pro\process\process\obj\Debug\process.xml
+D:\BCA\Sem-IV\VB.NET\Pro\process\process\obj\Debug\process.pdb

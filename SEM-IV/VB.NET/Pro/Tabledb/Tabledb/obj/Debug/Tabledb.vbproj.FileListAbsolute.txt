@@ -1,0 +1,10 @@
+D:\BCA\Sem-IV\VB.NET\Pro\Tabledb\Tabledb\bin\Debug\Tabledb.exe.config
+D:\BCA\Sem-IV\VB.NET\Pro\Tabledb\Tabledb\bin\Debug\Tabledb.exe
+D:\BCA\Sem-IV\VB.NET\Pro\Tabledb\Tabledb\bin\Debug\Tabledb.pdb
+D:\BCA\Sem-IV\VB.NET\Pro\Tabledb\Tabledb\bin\Debug\Tabledb.xml
+D:\BCA\Sem-IV\VB.NET\Pro\Tabledb\Tabledb\obj\Debug\Tabledb.Form1.resources
+D:\BCA\Sem-IV\VB.NET\Pro\Tabledb\Tabledb\obj\Debug\Tabledb.Resources.resources
+D:\BCA\Sem-IV\VB.NET\Pro\Tabledb\Tabledb\obj\Debug\Tabledb.vbproj.GenerateResource.Cache
+D:\BCA\Sem-IV\VB.NET\Pro\Tabledb\Tabledb\obj\Debug\Tabledb.exe
+D:\BCA\Sem-IV\VB.NET\Pro\Tabledb\Tabledb\obj\Debug\Tabledb.xml
+D:\BCA\Sem-IV\VB.NET\Pro\Tabledb\Tabledb\obj\Debug\Tabledb.pdb

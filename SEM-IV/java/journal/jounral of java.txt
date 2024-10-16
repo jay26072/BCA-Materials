@@ -1,0 +1,1011 @@
+
+
+				program::1
+
+/* 
+Design a class to represent a bank account. Include the following members. (Using multiple constructor) :-
+
+Data members: Name of depositer, Account number, Type of account, Balance amount in the account.
+
+Methods: To assign initial values, To deposit an amount, To withdraw an amount after checking balance, To display the name and balance
+*/
+
+import java.util.Scanner;
+
+class BankAccount {
+    private String name, accType;
+    private long accNo;
+    private int balance;
+
+    BankAccount() {
+        this.name = "Naresh";
+        this.accType = "Savings";
+        this.accNo = 7465894123L;
+        this.balance = 100000;
+    }
+
+    BankAccount(String name, String accType, long accNo, int balance) {
+        this.name = name;
+        this.accType = accType;
+        this.accNo = accNo;
+        this.balance = balance;
+    }
+
+    public void setData(String name, String accType, long accNo, int balance) {
+        this.name = name;
+        this.accType = accType;
+        this.accNo = accNo;
+        this.balance = balance;
+    }
+
+    public void getData() {
+        System.out.println("Account details:\n");
+        System.out.println("Name of the account holder:\t" + name);
+        System.out.println("Account type:\t" + accType);
+        System.out.println("Account number:\t" + accNo);
+        System.out.println("Total balance:\t" + balance);
+    }
+
+    public int depositAmount(int amount) {
+        balance += amount;
+
+        return balance;
+    }
+
+    public int withdrawAmount(int amount) {
+        if (amount > balance) {
+            return -1;
+        }
+        else {
+            balance -= amount;
+            return balance;
+        }
+
+    }
+}
+
+public class journal1 {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        BankAccount acc = new BankAccount("Naresh Sharma", "Savings", 1200078545, 10000);
+        int options;
+        char continuee;
+
+        do {
+            System.out.println("\n1. Enter account details.\n2. Deposit amount.\n3. Withdraw amount\n4. Display account details\n5. Exit.\n");
+            System.out.print("Choose an option: ");
+            options = sc.nextInt();
+            sc.nextLine();
+
+            switch (options) {
+                case 1:
+                    System.out.print("Enter name: ");
+                    String name = sc.nextLine();
+
+                    System.out.print("Enter account type: ");
+                    String accType = sc.nextLine();
+
+                    System.out.print("Enter account number: ");
+                    long accNo = sc.nextLong();
+
+                    System.out.print("Enter balance: ");
+                    int balance = sc.nextInt();
+                    sc.nextLine();
+
+                    acc.setData(name, accType, accNo, balance);
+
+                    System.out.println("Data entered successfully!");
+                    
+                    break;
+                case 2:
+                    System.out.print("Enter the amount you want to deposit: ");
+                    int dipositAmount = sc.nextInt();
+                    sc.nextLine();
+
+                    System.out.println("Success! " + dipositAmount + " deposited! Total balance: " + acc.depositAmount(dipositAmount));
+
+                    break;
+
+                case 3:
+                    System.out.print("Enter the amount you want to deposit: ");
+                    int withdrawlAmount = sc.nextInt();
+                    sc.nextLine();
+                    int totalBal = acc.withdrawAmount(withdrawlAmount);
+
+                    if(totalBal == -1) {
+                        System.out.println("Withdrawl amount exceeds account balance!");
+                    }
+                    else {
+                        System.out.println("Success! " + withdrawlAmount + " withdrawn! Total balance: " + totalBal); 
+                    }
+
+                    break;
+
+                case 4:
+                    acc.getData();
+
+                    break;
+
+                case 5:
+                    System.exit(0);
+
+                default:
+                System.out.println("Invalid option! Please choose any option from 1 to 5!");
+
+                    break;
+            }
+            
+
+            System.out.print("\nDo you want to continue? (Press and enter 'Y' or 'y'): ");
+            continuee = sc.next().charAt(0);
+            sc.nextLine();
+        } while (continuee == 'Y' || continuee == 'y');
+
+        sc.close();
+    }
+}
+
+
+output::
+
+1. Enter account details.
+2. Deposit amount.
+3. Withdraw amount4. Display account details5. Exit.
+
+Choose an option: 1
+Enter name: urvi
+Enter account type: saving
+Enter account number: 58967589678546
+Enter balance: 55555
+Data entered successfully!
+
+			program::2
+			
+/*
+Write a program to print Floyd's triangle where 'n' is command line input
+
+1
+2 3
+4 5 6
+7 8 9 10
+....
+............n
+*/
+
+public class Program2 {
+    public static void main(String[] args) {
+        int n = Integer.parseInt(args[0]), num = 1;
+
+        for(int i = 1; i <= n; i++) {
+            for(int j = 1; j <= i; j++) {
+                System.out.print(num + " ");
+                num++;
+            }
+            System.out.print("\n");
+        }
+    }
+}
+
+
+output::
+
+D:\javacode>java jornal2 10
+1
+2 3
+4 5 6
+7 8 9 10
+11 12 13 14 15
+16 17 18 19 20 21
+22 23 24 25 26 27 28
+29 30 31 32 33 34 35 36
+37 38 39 40 41 42 43 44 45
+46 47 48 49 50 51 52 53 54 55
+
+		program::3
+		
+/*
+Design a class 'Cricketer' having data member 'name' and 'numberOfMatches' and appropriate member function to set the values. Derived two classes 'Batsman' and 'Bowler' from 'Cricketer' class with data member 'totalNumberOfRuns' and 'wickets' respectively. 'Batsman' should have the method to calculate average wicket. Write a program to create two objects and display information of one batsman and bowler along with average run and wicket.
+*/ 
+
+class Cricketer {
+    private String name;
+    private int numberOfMatches;
+
+    Cricketer() {
+        this.name = "Not Set";
+        this.numberOfMatches = 0;
+    }
+
+    Cricketer(String name, int numberOfMatches) {
+        this.name = name;
+        this.numberOfMatches = numberOfMatches;
+    }
+
+    public void initVal(String name, int numberOfMatches) {
+        this.name = name;
+        this.numberOfMatches = numberOfMatches;
+    }
+
+    public void getData() {
+        System.out.println("The name of the cricketer is: " + name);
+        System.out.println("Number of matches this cricketer has played: " + numberOfMatches);
+    }
+}
+
+class Batsman extends Cricketer {
+    private int totalNoOfRuns;
+    private int wicket[] = new int[10];
+
+    Batsman() {
+        totalNoOfRuns = 0;
+        for(int i = 0; i < 10; i++) {
+            wicket[i] = 0;
+        }
+    }
+
+    Batsman(String name, int numberOfMatches, int totalNoOfRuns, int wicket[]) {
+        super(name, numberOfMatches);
+
+        this.totalNoOfRuns = totalNoOfRuns;
+        this.wicket = wicket;
+    }
+
+    public int averageWicket() {
+        int avg = 0;
+
+        for (int i = 0; i < 10; i++) {
+            avg += wicket[i];
+        }
+
+        return avg;
+    }
+
+    public void getData() {
+        super.getData();
+
+        System.out.println("Total no of runs of this cricketer is: " + totalNoOfRuns);
+        System.out.println("Average wicket taken by this cricketer is: " + averageWicket());
+    }
+}
+
+class Bowler extends Cricketer {
+    private int totalNoOfRuns;
+    private int wicket[] = new int[10];
+
+    Bowler() {
+        totalNoOfRuns = 0;
+        for(int i = 0; i < 10; i++) {
+            wicket[i] = 0;
+        }
+    }
+
+    Bowler(String name, int numberOfMatches, int totalNoOfRuns, int wicket[]) {
+        super(name, numberOfMatches);
+
+        this.totalNoOfRuns = totalNoOfRuns;
+        this.wicket = wicket;
+    }
+
+    public int averageWicket() {
+        int avg = 0;
+
+        for (int i = 0; i < 10; i++) {
+            avg += wicket[i];
+        }
+
+        return avg;
+    }
+
+    public void getData() {
+        super.getData();
+
+        System.out.println("Total no of runs of this cricketer is: " + totalNoOfRuns);
+        System.out.println("Average wicket taken by this cricketer is: " + averageWicket());
+    }
+}
+
+public class Program3 {
+    public static void main(String[] args) {
+        int btsWickets[] = {0, 2, 1, 1, 0, 0, 1, 4, 3, 2};
+        int blwWickets[] = {1, 2, 1, 1, 4, 3, 4, 6, 4, 2};
+
+        Batsman bts = new Batsman("Virat Kohli", 50, 1000, btsWickets);
+        Bowler blw = new Bowler("Harbajan Singh", 200, 50650, blwWickets);
+
+        bts.averageWicket();
+        blw.averageWicket();
+
+        bts.getData();
+
+        System.out.println("\n");
+
+        blw.getData();
+        
+    }
+}
+
+
+output::
+
+The name of the cricketer is: Virat Kohli
+Number of matches this cricketer has played: 50
+Total no of runs of this cricketer is: 1000
+Average wicket taken by this cricketer is: 14
+
+
+The name of the cricketer is: Harbajan Singh
+Number of matches this cricketer has played: 200
+Total no of runs of this cricketer is: 50650
+Average wicket taken by this cricketer is: 28
+
+		program::4
+		
+		/*
+Write a program that will accept two strings from command line and create overloaded methods that add these two numbers or concatinate two strings
+*/
+
+public class Program4 {
+
+    public static int add(int a, int b) {
+        return a + b;
+    }
+
+    public static String add(String a, String b) {
+        return a + " " + b;
+    }
+    public static void main(String[] args) {
+        String argS1;
+        String argS2;
+        int argI1;
+        int argI2;
+
+        try {
+            argI1 = Integer.parseInt(args[0]);
+            argI2 = Integer.parseInt(args[1]);
+
+            System.out.println("The addition of two numbers are: " + add(argI1, argI2));
+        }
+        catch(Exception e) {
+            argS1 = args[0];
+            argS2 = args[1];
+
+            System.out.println("The concatination of two Strings are: " + add(argS1, argS2));
+        }
+    }
+    
+}
+
+
+output::
+
+D:\javacode>java journal4 56 67
+The addition of two numbers are: 123
+
+		program::5
+		
+/*
+Write a program that accepts a number from command line and check whether it's palindrome number or not
+*/
+
+public class Program5 {
+    public static void main(String[] args) {
+        int num = Integer.parseInt(args[0]), temp = num, remainder, sum = 0;
+
+        while (num > 0) {
+            remainder = num % 10;
+            sum = (sum *10) + remainder;
+            num = num / 10;
+        }
+
+        if(temp == sum) {
+            System.out.println("The given number is palindrome number");
+        }
+        else {
+            System.out.println("The given number isn't palindrome number");
+        }
+    }
+}
+
+
+output::
+
+D:\javacode>java journal5 15
+The given number isn't palindrome number
+
+		program::6
+		
+/*
+Write a program that accepts a string from command line and arrange all the characters in alphabetical order.
+
+E.g - input: computer
+      output: cemoprtu
+*/
+
+public class Program6 {
+
+    public static char[] sortString(char[] input){
+        char temp;
+        int j = 0;
+        boolean isSwapped = true;
+
+        while(isSwapped) {
+            isSwapped = false;
+            j++;
+
+            for(int i = 0; i < input.length - j; i++) {
+                if(input[i + 1] < input[i]) {
+                    temp = input[i];
+                    input[i] = input[i + 1];
+                    input[i + 1] = temp;
+                    
+                    isSwapped = true;
+                }
+            }
+        }
+
+        return input;
+    }
+	
+    public static void main(String[] args) {
+        char[] input = args[0].toCharArray();
+
+        System.out.print("Input before sorting: ");
+        for(int i = 0; i < input.length; i++) {
+            System.out.print(input[i]);
+        }
+        System.out.print("\n");
+
+        char[] sortedInput = sortString(input);
+
+        System.out.print("Input after sorting: ");
+        for(int i = 0; i < sortedInput.length; i++) {
+            System.out.print(sortedInput[i]);
+        }
+    }
+}
+
+
+output::
+
+Input before sorting: computer
+Input after sorting: cemoprtu
+
+		program::7
+		
+/*
+Write a program to create interface 'Area'. Create three classes called 'Rectangle', 'Triangle' and 'Square' and calculate their areas respectively.
+*/
+
+interface Area {
+    void calcArea();
+}
+
+class Rectangle implements Area {
+    private int length, breadth;
+
+    Rectangle() {
+        this.length = 1;
+        this.breadth = 1;
+    }
+
+    Rectangle(int l, int b) {
+        this.length = l;
+        this.breadth = b;
+    }
+
+    @Override
+    public void calcArea() {
+        System.out.println("The area of rectangle is: " + (length * breadth) + " m^2");
+    }
+}
+
+class Triangle implements Area {
+    private int breadth, height;
+
+    Triangle() {
+        this.breadth = 1;
+        this.height = 1;
+    }
+
+    Triangle(int b, int h) {
+        this.breadth = b;
+        this.height = h;
+    }
+
+    @Override
+    public void calcArea() {
+        System.out.println("The area of tringle is: " + ((breadth * height) / 2) + " m^2");
+    }
+}
+
+class Square implements Area {
+    private int length;
+
+    Square() {
+        this.length = 1;
+    }
+
+    Square(int l) {
+        this.length = l;
+    }
+
+    @Override
+    public void calcArea() {
+        System.out.println("The area of square is: " + (length * length) + " m^2");
+    }
+}
+
+public class journal7 {
+    public static void main(String[] args) {
+        Rectangle r = new Rectangle(17, 23);
+        Triangle t = new Triangle(16, 45);
+        Square s = new Square(46);
+
+        r.calcArea();
+        t.calcArea();
+        s.calcArea();
+    }
+}
+
+
+output::
+
+The area of rectangle is: 391 m^2
+The area of tringle is: 360 m^2
+The area of square is: 2116 m^2
+
+
+		program::8
+		
+/*
+Write a program that will accept a number from the command line and raise a user defined exception if the number consists of number of digits.
+*/
+
+class OddException extends Exception {
+    OddException(String excep) {
+        super(excep);
+    }
+}
+
+public class Program8 {
+    public static void main(String[] args) {
+        int input = Integer.parseInt(args[0]), i = 0;
+
+        while (input > 0) {
+            input = input / 10;
+            i++;
+        }
+
+        try{
+            if (i % 2 != 0) {
+                throw new OddException("Error! The input contains odd number of Digits!");
+            }
+            else{
+                System.out.println("No error will be thrown because the input contains even number of digits");
+            }
+        }
+        catch (OddException e){
+            System.out.println(e);
+        }
+    }
+}
+
+
+output::
+
+D:\javacode>java journal8 34
+No error will be thrown because the input contains even number of digits
+
+		program::9
+		
+/*
+Write a java application which accepts 10 names of student and their age. Sort names and age in descending order (Using array).
+*/
+
+import java.util.Scanner;
+
+class Students {
+    private String[] names = new String[10];
+    private int[] age = new int[10];
+
+    Students() {
+        for(int i = 0; i < 10; i++) {
+            names[i] = "Not Set";
+            age[i] = 0;
+        }
+    }
+
+    Students(String[] n, int[] a) {
+        for(int i = 0; i < 10; i++) {
+            names[i] = n[i];
+            age[i] = a[i];
+        }
+    }
+
+    public void setData(String[] n, int[] a) {
+        for(int i = 0; i < 10; i++) {
+            names[i] = n[i];
+            age[i] = a[i];
+        }
+    }
+
+    public void namesAscending() {
+        String tempName;
+        int tempAge, j = 0;
+        boolean isSwapped = true;
+
+        while(isSwapped) {
+            isSwapped = false;
+            j++;
+
+            for(int i = 0; i < 10 - j; i++) {
+                if(names[i + 1].charAt(0) < names[i].charAt(0)) {
+                    tempName = names[i];
+                    names[i] = names[i + 1];
+                    names[i + 1] = tempName;
+
+                    tempAge = age[i];
+                    age[i] = age[i + 1];
+                    age[i + 1] = tempAge;
+
+                    isSwapped = true;                    
+                }
+            }
+        }
+    }
+    
+    public void namesDescending() {
+        String tempName;
+        int tempAge, j = 0;
+        boolean isSwapped = true;
+
+        while(isSwapped) {
+            isSwapped = false;
+            j++;
+
+            for(int i = 0; i < 10 - j; i++) {
+                if(names[i + 1].charAt(0) > names[i].charAt(0)) {
+                    tempName = names[i];
+                    names[i] = names[i + 1];
+                    names[i + 1] = tempName;
+
+                    tempAge = age[i];
+                    age[i] = age[i + 1];
+                    age[i + 1] = tempAge;
+
+                    isSwapped = true;                    
+                }
+            }
+        }
+    }
+    
+    public void ageAscending() {
+        String tempName;
+        int tempAge, j = 0;
+        boolean isSwapped = true;
+
+        while(isSwapped) {
+            isSwapped = false;
+            j++;
+
+            for(int i = 0; i < 10 - j; i++) {
+                if(age[i + 1] < age[i]) {
+                    tempAge = age[i];
+                    age[i] = age[i + 1];
+                    age[i + 1] = tempAge;
+
+                    tempName = names[i];
+                    names[i] = names[i + 1];
+                    names[i + 1] = tempName;
+
+                    isSwapped = true;                    
+                }
+            }
+        }
+    }
+    
+    public void ageDescending() {
+        String tempName;
+        int tempAge, j = 0;
+        boolean isSwapped = true;
+
+        while(isSwapped) {
+            isSwapped = false;
+            j++;
+
+            for(int i = 0; i < 10 - j; i++) {
+                if(age[i + 1] > age[i]) {
+                    tempAge = age[i];
+                    age[i] = age[i + 1];
+                    age[i + 1] = tempAge;
+
+                    tempName = names[i];
+                    names[i] = names[i + 1];
+                    names[i + 1] = tempName;
+
+                    isSwapped = true;                    
+                }
+            }
+        }
+    }
+
+    public void getData() {
+        System.out.println("Names and age");
+
+        for(int i = 0; i < 10; i++) {
+            System.out.println(names[i] + "\t" + age[i]);
+        }
+    }
+}
+
+public class Program9 {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        String[] n = {"Jay", "Mukesh", "Jayveer", "Rajesh", "Heena", "Smit", "Sarita", "Riya", "Om", "Naresh"};
+        int[] a = {18, 15, 20, 10, 20, 25, 50, 17, 21, 21};
+        Students st = new Students(n, a);
+        int options;
+        char continuee;
+
+        do {
+            System.out.print("\033[H\033[2J"); //For clearing the console
+            System.out.flush(); //For flushing anything left after System.out.print
+
+            System.out.print("1. Enter names and age of 10 students\n2. Arrange the data in ascending order (According to names).\n3. Arrange the data in descending order (According to names).. \n4. Arrange the data in ascending order (According to age).\n5. Arrange the data in descending order (According to age).\n6. Display data.\n 7. Exit");
+            System.out.print("\nEnter your choice: ");
+            options = sc.nextInt();
+            sc.nextLine();
+
+            switch (options) {
+                case 1:
+                    for(int i = 0; i < 10; i++) {
+                        System.out.print("Enter name of student" + (i + 1) + ": ");
+                        n[i] = sc.nextLine();
+
+                        System.out.print("Enter age of student" + (i + 1) + ": ");
+                        a[i] = sc.nextInt();
+                        sc.nextLine();
+                        System.out.print("\n");
+                    }
+
+                    st.setData(n, a);
+
+                    System.out.println("Data entered successfully!");
+
+                    break;
+                
+                case 2:
+                    st.namesAscending();
+                    
+                    System.out.println("Data arranged in ascending order accorrding to names! Run 'Dispay data' to show the data.");
+
+                    break;
+
+                case 3:
+                    st.namesDescending();
+                        
+                    System.out.println("Data arranged in descending order accorrding to names! Run 'Dispay data' to show the data.");
+
+                    break;
+
+                case 4:
+                    st.ageAscending();
+                        
+                    System.out.println("Data arranged in ascending order accorrding to ages! Run 'Dispay data' to show the data.");
+
+                    break;
+
+                case 5:
+                    st.ageDescending();
+                        
+                    System.out.println("Data arranged in descending order accorrding to ages! Run 'Dispay data' to show the data.");
+                    
+                    break;
+
+                case 6:
+                    st.getData();
+
+                    break;
+
+                case 7:
+                    System.exit(0);
+
+                default:
+                    System.out.println("Invalid option! Please choose options from 1 to 7!");    
+
+                    break;
+            }
+            
+            System.out.print("\nDo you want to continue? (Press and enter 'Y' or 'y'): ");
+            continuee = sc.next().charAt(0);
+            sc.nextLine();
+        } while (continuee == 'Y' || continuee == 'y');
+
+        sc.close();
+    }
+}
+
+output::
+
+1. Enter names and age of 10 students
+2. Arrange the data in ascending order (According to names).
+3. Arrange the data in descending order (According to names).. 
+4. Arrange the data in ascending order (According to age).
+5. Arrange the data in descending order (According to age).
+6. Display data.
+ 7. Exit
+Enter your choice: 3
+Data arranged in descending order accorrding to names! Run 'Dispay data' to show the data.
+
+Do you want to continue? (Press and enter 'Y' or 'y'): n
+
+		program::10
+		
+/*
+Design a class 'MyString' having a data member of type String and add member functions to it to achieve following tasks:
+
+1. Reverse String.
+2. String in Titlecase.
+3. Extract 'n' characters from the right end of the string.
+
+Write a menu driven program to call these methods of 'MyString' class. The program should not terminate abruptly.
+*/
+
+import java.util.Scanner;
+
+class MyString {
+    private String data;
+
+    MyString() {
+        this.data = "Not Set";
+    }
+
+    MyString(String data) {
+        this.data = data;
+    }
+
+    public void setData(String data) {
+        this.data = data;
+    }
+
+    public String getData() {
+        return data;
+    }
+
+    public String reverseString() {
+        String reversedString = "";
+        char temp;
+
+        for(int i = this.data.length() - 1; i >= 0; i--) {
+            temp = data.charAt(i);
+            reversedString += temp;
+        }
+
+        return reversedString;
+    }
+
+    public String titleCase() { //Took this from web (more reliable but hard to understand)
+        char[] titleCaseString = data.toCharArray();
+
+        for(int i = 0; i < titleCaseString.length; i++) {
+            if(i == 0 && titleCaseString[i] !=' ' || titleCaseString[i] != ' ' && titleCaseString[i - 1] == ' ') {
+                if(titleCaseString[i] >= 'a' && titleCaseString[i] <= 'z') {
+                    titleCaseString[i] = (char) (titleCaseString[i] - 'a' + 'A');
+                }
+            }
+            else if(titleCaseString[i] >= 'A' && titleCaseString[i] <= 'Z') {
+                titleCaseString[i] = (char) (titleCaseString[i] + 'a' - 'A');
+            }
+        }
+        return new String(titleCaseString);
+    }
+
+    public String myTitleCase() { //Made this myself (might be less Reliable but the positive thing is that it's relatively easy to understand and I made it myself ;-)
+        char ch[] = data.toCharArray();
+
+        for(int i = 0; i < ch.length; i++) {
+            ch[i] = Character.toLowerCase(ch[i]);
+
+            if(i == 0 || ch[i - 1] == ' ') {
+                ch[i] = Character.toUpperCase(ch[i]);
+            }
+        }
+
+        return new String(ch);
+    }
+
+    public String extractString(int n) {
+        String extractedString = "";
+        int init = data.length() - n;
+        char temp;
+
+        if(init < 0) {
+            return "Error! String length out of range. Cannot extract!";
+        }
+        else {
+            for(int i = init; i < data.length(); i++) {
+                temp = data.charAt(i);
+                extractedString+= temp;
+            }
+
+            return extractedString;
+        }
+    }
+}
+
+public class Program10 {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        MyString str = new MyString("Computer");
+        int options;
+        char continuee;
+
+        do {
+            System.out.print("\033[H\033[2J"); //For clearing the console
+            System.out.flush(); //For flushing anything left after System.out.print
+
+            System.out.print("1. Enter a string (Current string is '" + str.getData() + "').\n2. Reverse the String.\n3. String in titlecase. \n4. Extract characters from the end of the string.\n5. Exit");
+            System.out.print("\nEnter your choice: ");
+            options = sc.nextInt();
+            sc.nextLine();
+
+            switch (options) {
+                case 1:
+                    System.out.print("Enter a string: ");
+                    String inp = sc.nextLine();
+                    str.setData(inp);
+
+                    System.out.println("Data entered successfully!");
+                    break;
+                
+                case 2:
+                    System.out.println("Original string: " + str.getData());
+                    System.out.println("Reversed String: " + str.reverseString());
+
+                    break;
+
+                case 3:
+                    System.out.println("Original string: " + str.getData());
+                    System.out.println("Formatted (Titlecase) string: " +str.myTitleCase());
+
+                    break;
+
+                case 4:
+                    System.out.print("Enter the number of characters you want to extract: ");
+                    int n = sc.nextInt();
+                    sc.nextLine();
+
+                    System.out.println("Original string: " + str.getData());
+                    System.out.println("Extracted String: " + str.extractString(n));
+
+                    break;
+
+                case 5:
+                    System.exit(0);
+                
+                default:
+                    System.out.println("Invalid option! Please choose the options from one to four!");
+                    break;
+            }
+
+            System.out.print("\nDo you want to continue? (press and enter'Y' or 'y'): ");
+            continuee = sc.next().charAt(0);
+            sc.nextLine();
+        } while (continuee == 'Y' || continuee == 'y');
+
+        sc.close();
+    }
+}
+
+output::
+
+1. Enter a string (Current string is 'computer').
+2. Reverse the String.
+3. String in titlecase.
+4. Extract characters from the end of the string.
+5. Exit
+Enter your choice: 2
+Original string: computer
+Reversed String: retupmoc
+
+Do you want to continue? (press and enter'Y' or 'y'): 

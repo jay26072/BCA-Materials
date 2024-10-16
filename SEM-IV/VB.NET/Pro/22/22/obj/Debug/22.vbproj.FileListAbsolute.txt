@@ -1,0 +1,10 @@
+D:\BCA\Sem-IV\VB.NET\Pro\22\22\bin\Debug\22.exe.config
+D:\BCA\Sem-IV\VB.NET\Pro\22\22\bin\Debug\22.exe
+D:\BCA\Sem-IV\VB.NET\Pro\22\22\bin\Debug\22.pdb
+D:\BCA\Sem-IV\VB.NET\Pro\22\22\bin\Debug\22.xml
+D:\BCA\Sem-IV\VB.NET\Pro\22\22\obj\Debug\_22.Form1.resources
+D:\BCA\Sem-IV\VB.NET\Pro\22\22\obj\Debug\_22.Resources.resources
+D:\BCA\Sem-IV\VB.NET\Pro\22\22\obj\Debug\22.vbproj.GenerateResource.Cache
+D:\BCA\Sem-IV\VB.NET\Pro\22\22\obj\Debug\22.exe
+D:\BCA\Sem-IV\VB.NET\Pro\22\22\obj\Debug\22.xml
+D:\BCA\Sem-IV\VB.NET\Pro\22\22\obj\Debug\22.pdb

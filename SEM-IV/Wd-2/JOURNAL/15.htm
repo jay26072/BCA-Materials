@@ -1,0 +1,33 @@
+<html>
+	<head>
+		<script src="jquery-3.6.0.js"></script>
+		<script>
+			$(document).ready(function(){
+			$("#btn1").click(function(){
+			$("div").addClass("sybca");
+			});
+			$("#btn2").click(function(){
+			$("div").removeClass("sybca");
+			});
+			$("#btn3").click(function(){
+			$("div").toggleClass("sybca");
+			});
+			});
+		</script>
+		<style>
+			.sybca{
+				background-color:red;
+				height:300;
+				width:300;
+			}
+		</style>
+	</head>
+	<body>
+		<div>
+		Hello,How Are You?
+		</div>
+		<button id="btn1">Add Class</button>
+		<button id="btn2">Remove Class</button>
+		<button id="btn3">Toggle Class</button>
+	</body>
+</html>

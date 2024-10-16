@@ -1,0 +1,25 @@
+<html>
+	<head>
+		<script src="jquery-3.6.0.js"></script>
+		<script>
+			$(document).ready(function(){
+			$("#hide").click(function(){
+			$("p").slideUp();
+			});
+			$("#show").click(function(){
+			$("p").slideDown();
+			});
+			$("#toogle").click(function(){
+			$("p").slideToggle();
+			});
+			});
+		</script>
+	</head>
+	<body>
+
+		<p>If you click on the "Hide" button, I will disappear.</p>
+		<button id="hide">Slide In</button>
+		<button id="show">Slide Out</button>
+		<button id="toogle">Slide Toggle</button>
+	</body>
+</html>

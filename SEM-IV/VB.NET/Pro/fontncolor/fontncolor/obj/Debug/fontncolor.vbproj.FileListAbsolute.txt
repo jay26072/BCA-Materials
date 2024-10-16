@@ -1,0 +1,10 @@
+D:\BCA\Sem-IV\VB.NET\Pro\fontncolor\fontncolor\bin\Debug\fontncolor.exe.config
+D:\BCA\Sem-IV\VB.NET\Pro\fontncolor\fontncolor\bin\Debug\fontncolor.exe
+D:\BCA\Sem-IV\VB.NET\Pro\fontncolor\fontncolor\bin\Debug\fontncolor.pdb
+D:\BCA\Sem-IV\VB.NET\Pro\fontncolor\fontncolor\bin\Debug\fontncolor.xml
+D:\BCA\Sem-IV\VB.NET\Pro\fontncolor\fontncolor\obj\Debug\fontncolor.Form1.resources
+D:\BCA\Sem-IV\VB.NET\Pro\fontncolor\fontncolor\obj\Debug\fontncolor.Resources.resources
+D:\BCA\Sem-IV\VB.NET\Pro\fontncolor\fontncolor\obj\Debug\fontncolor.vbproj.GenerateResource.Cache
+D:\BCA\Sem-IV\VB.NET\Pro\fontncolor\fontncolor\obj\Debug\fontncolor.exe
+D:\BCA\Sem-IV\VB.NET\Pro\fontncolor\fontncolor\obj\Debug\fontncolor.xml
+D:\BCA\Sem-IV\VB.NET\Pro\fontncolor\fontncolor\obj\Debug\fontncolor.pdb

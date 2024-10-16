@@ -1,0 +1,19 @@
+1.What is oracle function? List out type of funtion then explain each function with its syntax, purpose and example.
+
+2.What is SQL? Explain type of SQL Component (DDL, DML, DCL and TCL).
+
+3.Explain Syntax and exmple of given statement.
+1. create table..
+2. Insert into..
+3. Update table..
+4. Delete ...
+5. Select * from .. and Where cluase
+6. Describe 
+7. Alter table 
+8. Create table from another table
+9. insert record from another table
+10. Eliminate duplicate values
+11. order by clause
+12. Select * from Tab Statements
+
+4.What is Dual table? Give example.

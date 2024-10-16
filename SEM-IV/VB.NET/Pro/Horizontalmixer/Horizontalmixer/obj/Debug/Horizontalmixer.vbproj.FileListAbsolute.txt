@@ -1,0 +1,10 @@
+D:\BCA\Sem-IV\VB.NET\Pro\Horizontalmixer\Horizontalmixer\bin\Debug\Horizontalmixer.exe.config
+D:\BCA\Sem-IV\VB.NET\Pro\Horizontalmixer\Horizontalmixer\obj\Debug\Horizontalmixer.Form1.resources
+D:\BCA\Sem-IV\VB.NET\Pro\Horizontalmixer\Horizontalmixer\obj\Debug\Horizontalmixer.Resources.resources
+D:\BCA\Sem-IV\VB.NET\Pro\Horizontalmixer\Horizontalmixer\obj\Debug\Horizontalmixer.vbproj.GenerateResource.Cache
+D:\BCA\Sem-IV\VB.NET\Pro\Horizontalmixer\Horizontalmixer\bin\Debug\Horizontalmixer.exe
+D:\BCA\Sem-IV\VB.NET\Pro\Horizontalmixer\Horizontalmixer\bin\Debug\Horizontalmixer.pdb
+D:\BCA\Sem-IV\VB.NET\Pro\Horizontalmixer\Horizontalmixer\bin\Debug\Horizontalmixer.xml
+D:\BCA\Sem-IV\VB.NET\Pro\Horizontalmixer\Horizontalmixer\obj\Debug\Horizontalmixer.exe
+D:\BCA\Sem-IV\VB.NET\Pro\Horizontalmixer\Horizontalmixer\obj\Debug\Horizontalmixer.xml
+D:\BCA\Sem-IV\VB.NET\Pro\Horizontalmixer\Horizontalmixer\obj\Debug\Horizontalmixer.pdb

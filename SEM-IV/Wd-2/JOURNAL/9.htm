@@ -1,0 +1,18 @@
+<html>
+	<head>
+		<script src="jquery3.6.0.js"></script>
+		<script>
+		$(document).ready(function(){
+		$("button").click(function(){
+		$("#p").hide(3000).show(4000).fadeTo("slow",0.4).slideUp(3000).slideDown(4000,function(){
+			alert("ALL DONE");
+		});
+		});
+		});
+		</script>
+	</head>
+	<body>
+		<p id="p">HELLO,HOW ARE YOU?</p>
+		<button>Click Me</button>
+	</body>
+</html>

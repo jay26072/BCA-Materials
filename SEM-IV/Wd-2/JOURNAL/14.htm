@@ -1,0 +1,30 @@
+<html>
+<head>
+	<script src="jquery3.6.0.js"></script>
+	<script>
+		$(document).ready(function(){
+			$("#btn1").click(function(){
+				//$("ol").unwrap("");
+				$("ol").unwrap();
+			
+			});
+		$("#btn2").click(function(){
+				$("ol").wrap("<div>");
+			
+			});
+		});
+	</script>
+</head>
+<body>
+	<div style='background-color:red;height:500;width:500'>
+	<ol>
+		<li>Quiz</li>
+		<li>Assignment</li>
+		<li>Viva</li>
+		<li>Internal Exam</li>
+	</ol>
+	</div>
+	<button id="btn1">Unwrap</button>
+	<button id="btn2">Wrap</button>
+</body>
+</html>

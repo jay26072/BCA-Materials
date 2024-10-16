@@ -1,0 +1,52 @@
+---> STEP 1
+
+CREATE TABLE STUDENT
+
+(ID INTEGER PRIMARY KEY,
+
+NAME TEXT NOT NULL,
+
+EMAIL TEXT,
+
+MARKS FLOAT);
+
+ 
+----> STEP 2
+
+INSERT INTO STUDENT
+
+values (1,'Shweta','shweta@gmail.com',80),
+
+(2,'Yamini','rani@gmail.com', 60),
+
+(3,'Sonal','sonal@gmail.com', 50),
+
+(4,'Jagruti','jagu@gmail.com', 30);
+
+----> STEP 3
+
+SELECT * FROM STUDENT;
+
+---> STEP 4
+
+SELECT ID, NAME, MARKS,
+
+CASE
+
+WHEN MARKS >=80 THEN 'A+'
+
+WHEN MARKS >=70 THEN 'A'
+
+WHEN MARKS >=60 THEN 'B'
+
+WHEN MARKS >=50 THEN 'C'
+
+ELSE 'Sorry!! Failed'
+
+END as 'Grade'
+
+FROM STUDENT;
+
+---> STEP 5
+
+sqlite3 -header -csv ass1.db "SELECT ID, NAME, MARKS, CASE  WHEN MARKS >=80 THEN 'A+'  WHEN MARKS >=70 THEN 'A' WHEN MARKS >=60 THEN 'B' WHEN MARKS >=50 THEN  'C'  ELSE 'Sorry!! Failed' END as 'Grade' FROM STUDENT;" > data_2.csv

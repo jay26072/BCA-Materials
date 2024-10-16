@@ -1,0 +1,9 @@
+D:\BCA\Sem-IV\VB.NET\Pro\frist\frist\bin\Debug\frist.exe.config
+D:\BCA\Sem-IV\VB.NET\Pro\frist\frist\bin\Debug\frist.exe
+D:\BCA\Sem-IV\VB.NET\Pro\frist\frist\bin\Debug\frist.pdb
+D:\BCA\Sem-IV\VB.NET\Pro\frist\frist\bin\Debug\frist.xml
+D:\BCA\Sem-IV\VB.NET\Pro\frist\frist\obj\Debug\frist.Resources.resources
+D:\BCA\Sem-IV\VB.NET\Pro\frist\frist\obj\Debug\frist.vbproj.GenerateResource.Cache
+D:\BCA\Sem-IV\VB.NET\Pro\frist\frist\obj\Debug\frist.exe
+D:\BCA\Sem-IV\VB.NET\Pro\frist\frist\obj\Debug\frist.xml
+D:\BCA\Sem-IV\VB.NET\Pro\frist\frist\obj\Debug\frist.pdb

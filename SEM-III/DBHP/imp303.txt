@@ -1,0 +1,59 @@
+long
+-----------
+
+
+1)what is SQLite explain ad . dis
+2)data type  SQlite
+3)what is numpy ,method
+4)pandas, read csv&xls method
+5)differwnce numpy2d &array
+6)explain transection , rollback,commit with command
+7)explain fillter command  with syntax example(distinct,where,beetween,in,like,union,)
+	Filtering: Distinct, where, between, in, like, Union, 
+	intersect, Except, Limit, IS NULL
+8)what is join explian type of join ()
+9)what is trgger explain types of trigger
+10)explain import & export csv file into table &  export csv file from table 
+11)explain  SQL light dump command 
+
+
+
+short 
+------
+1)what is type affinity 
+2)what is the different database extension
+3)give the syntax of groupby having cluase 
+4)give the syntax of  conditional logic 
+5)what is the fullform of csv file
+6)who is the inventor of python 
+7)how to end transection (when comit & rollback fiers)
+
+
+
+
+practical 
+--------------
+
+create employee table 
+(employee eid ename jdate salary ,city ,add 10 records )
+surat city emp info 
+display e name whose second latter is R
+change mumbai whose from bombay
+remove employee whose name is ramesh
+dump employee table into data.csv 
+dump employee dataof surat city  into .data csv file
+
+
+
+product 
+
+create product table
+
+(pid,pname,price,dateofmnf,qty company )
+display 
+
+
+
+
+
+

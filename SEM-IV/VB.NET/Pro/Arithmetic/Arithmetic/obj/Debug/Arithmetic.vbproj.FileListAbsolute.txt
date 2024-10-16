@@ -1,0 +1,10 @@
+D:\BCA\Sem-IV\VB.NET\Pro\Arithmetic\Arithmetic\bin\Debug\Arithmetic.exe.config
+D:\BCA\Sem-IV\VB.NET\Pro\Arithmetic\Arithmetic\bin\Debug\Arithmetic.exe
+D:\BCA\Sem-IV\VB.NET\Pro\Arithmetic\Arithmetic\bin\Debug\Arithmetic.pdb
+D:\BCA\Sem-IV\VB.NET\Pro\Arithmetic\Arithmetic\bin\Debug\Arithmetic.xml
+D:\BCA\Sem-IV\VB.NET\Pro\Arithmetic\Arithmetic\obj\Debug\Arithmetic.Form1.resources
+D:\BCA\Sem-IV\VB.NET\Pro\Arithmetic\Arithmetic\obj\Debug\Arithmetic.Resources.resources
+D:\BCA\Sem-IV\VB.NET\Pro\Arithmetic\Arithmetic\obj\Debug\Arithmetic.vbproj.GenerateResource.Cache
+D:\BCA\Sem-IV\VB.NET\Pro\Arithmetic\Arithmetic\obj\Debug\Arithmetic.exe
+D:\BCA\Sem-IV\VB.NET\Pro\Arithmetic\Arithmetic\obj\Debug\Arithmetic.xml
+D:\BCA\Sem-IV\VB.NET\Pro\Arithmetic\Arithmetic\obj\Debug\Arithmetic.pdb

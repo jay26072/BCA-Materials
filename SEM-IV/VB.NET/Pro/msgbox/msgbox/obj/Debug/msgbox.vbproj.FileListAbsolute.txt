@@ -1,0 +1,10 @@
+D:\BCA\Sem-IV\VB.NET\Pro\msgbox\msgbox\bin\Debug\msgbox.exe.config
+D:\BCA\Sem-IV\VB.NET\Pro\msgbox\msgbox\bin\Debug\msgbox.exe
+D:\BCA\Sem-IV\VB.NET\Pro\msgbox\msgbox\bin\Debug\msgbox.pdb
+D:\BCA\Sem-IV\VB.NET\Pro\msgbox\msgbox\bin\Debug\msgbox.xml
+D:\BCA\Sem-IV\VB.NET\Pro\msgbox\msgbox\obj\Debug\msgbox.Form1.resources
+D:\BCA\Sem-IV\VB.NET\Pro\msgbox\msgbox\obj\Debug\msgbox.Resources.resources
+D:\BCA\Sem-IV\VB.NET\Pro\msgbox\msgbox\obj\Debug\msgbox.vbproj.GenerateResource.Cache
+D:\BCA\Sem-IV\VB.NET\Pro\msgbox\msgbox\obj\Debug\msgbox.exe
+D:\BCA\Sem-IV\VB.NET\Pro\msgbox\msgbox\obj\Debug\msgbox.xml
+D:\BCA\Sem-IV\VB.NET\Pro\msgbox\msgbox\obj\Debug\msgbox.pdb

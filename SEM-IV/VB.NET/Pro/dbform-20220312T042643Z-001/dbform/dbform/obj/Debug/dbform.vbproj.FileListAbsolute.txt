@@ -1,0 +1,14 @@
+V:\dot net\dbform\dbform\bin\Debug\dbform.exe.config
+V:\dot net\dbform\dbform\bin\Debug\dbform.exe
+V:\dot net\dbform\dbform\bin\Debug\dbform.pdb
+V:\dot net\dbform\dbform\bin\Debug\dbform.xml
+V:\dot net\dbform\dbform\obj\Debug\dbform.Form1.resources
+V:\dot net\dbform\dbform\obj\Debug\dbform.Resources.resources
+V:\dot net\dbform\dbform\obj\Debug\dbform.vbproj.GenerateResource.Cache
+V:\dot net\dbform\dbform\obj\Debug\dbform.exe
+V:\dot net\dbform\dbform\obj\Debug\dbform.xml
+V:\dot net\dbform\dbform\obj\Debug\dbform.pdb
+D:\BCA\Sem-IV\VB.NET\Pro\dbform-20220312T042643Z-001\dbform\dbform\bin\Debug\dbform.exe.config
+D:\BCA\Sem-IV\VB.NET\Pro\dbform-20220312T042643Z-001\dbform\dbform\obj\Debug\dbform.exe
+D:\BCA\Sem-IV\VB.NET\Pro\dbform-20220312T042643Z-001\dbform\dbform\obj\Debug\dbform.xml
+D:\BCA\Sem-IV\VB.NET\Pro\dbform-20220312T042643Z-001\dbform\dbform\obj\Debug\dbform.pdb

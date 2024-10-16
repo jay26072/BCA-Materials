@@ -1,0 +1,117 @@
+<!--
+MAKE A REGISTRATION PAGE FOR ONLINE EXAMINATION SYSTEM.
+STUDENT ID
+STUDENT FULL NAME
+EMAIL ID
+PASSWORD
+MOBILE NUMBER
+EXAM SEAT NUMBER
+DEPARTMENT
+SEMESTER
+DATE OF BIRTH
+PHOTO
+SIGNATURE -->
+<HTML>
+<HEAD>
+	<TITLE>Student Registration</TITLE>
+</HEAD>
+<BODY BGCOLOR="#8c7373">
+	<FORM>
+		<TABLE BORDER="2" ALIGN="CENTER" BGCOLOR="#ff4d4d">
+			<TR>
+				<TH COLSPAN="3"><H2>STUDENT DATA</H2></TH>
+			</TR>
+			<TR>
+				<TD><font color="cyan"size="5" face="Goudy Stout">Student ID</font><FONT COLOR="RED">*</FONT></TD>
+				<TD>:</TD>
+				<TD><INPUT TYPE="TEXT" REQUIRED></TD>
+			</TR>
+			<TR>
+				<TD>STUDENT FULL NAME</TD>
+				<TD>:</TD>
+				<TD><INPUT TYPE="TEXT" REQUIRED></TD>
+			</TR>
+			<TR>
+				<TD>EMAIL ID</TD>
+				<TD>:</TD>
+				<TD><INPUT TYPE="EMAIL"REQUIRED></TD>
+			</TR>
+			<TR>
+				<TD>PASSWORD</TD>
+				<TD>:</TD>
+				<TD><INPUT TYPE="PASSWORD"REQUIRED></TD>
+			</TR>
+			<TR>
+				<TD>CONFIRM PASSWORD</TD>
+				<TD>:</TD>
+				<TD><INPUT TYPE="PASSWORD"REQUIRED></TD>
+			</TR>
+			<TR>
+				<TD>MOBILE NUMBER</TD>
+				<TD>:</TD>
+				<TD><INPUT TYPE="TEXT"REQUIRED></TD>
+			</TR>
+			<TR>
+				<TD>EXAM SEAT NUMBER</TD>
+				<TD>:</TD>
+				<TD><INPUT TYPE="TEXT"REQUIRED></TD>
+			</TR>
+			<TR>
+				<TD>DEPARTMENT</TD>
+				<TD>:</TD>
+				<TD>
+					<INPUT LIST="DEPT" REQUIRED>
+					<DATALIST ID="DEPT">
+						<OPTION>BCA</OPTION>
+						<OPTION>BBA</OPTION>
+						<OPTION>MBA</OPTION>
+						<OPTION>MCA</OPTION>
+					</DATALIST>
+				</TD>
+			</TR>
+			
+			<TR>
+				<TD>SEMESTER</TD>
+				<TD>:</TD>
+				<TD>
+				<INPUT TYPE="RADIO" NAME="RDOSEM"REQUIRED>I
+				<INPUT TYPE="RADIO"NAME="RDOSEM">II
+				<INPUT TYPE="RADIO"NAME="RDOSEM">III
+				<INPUT TYPE="RADIO"NAME="RDOSEM">IV
+				<INPUT TYPE="RADIO"NAME="RDOSEM">V
+				<INPUT TYPE="RADIO"NAME="RDOSEM">VI
+				</TD>
+			</TR>
+			<TR>
+				<TD>DATE OF BIRTH</TD>
+				<TD>:</TD>
+				<TD><INPUT TYPE="DATE"></TD>
+			</TR>
+			<TR>
+				<TD>PHOTO</TD>
+				<TD>:</TD>
+				<TD><INPUT TYPE="FILE" ACCEPT="IMAGE/*"></TD>
+			</TR>
+			<TR>
+				<TD>SIGNATURE</TD>
+				<TD>:</TD>
+				<TD><INPUT TYPE="FILE" ACCEPT="IMAGE/*"></TD>
+			</TR>
+			<TR>
+				<TD>EXAM DATE TIME</TD>
+				<TD>:</TD>
+				<TD><INPUT TYPE="DATETIME-LOCAL" ></TD>
+			</TR>
+			<TR>
+				<TD COLSPAN="3" ALIGN="CENTER">
+					<INPUT TYPE="SUBMIT">
+					<INPUT TYPE="RESET">
+				</TD>
+			</TR>
+		</TABLE>
+	</FORM>
+
+</BODY>
+	
+	
+	

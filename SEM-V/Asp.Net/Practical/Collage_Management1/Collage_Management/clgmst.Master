@@ -1,0 +1,87 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="clgmst.master.vb" Inherits="Collage_Management.clgmst" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link href="Bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <script src="Bootstrap/js/bootstrap.min.js"></script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            height: 37px;
+        }
+        .auto-style2 {
+            height: 106px;
+        }
+        .auto-style2 {
+            height: 70px;
+        }
+        .auto-style3 {
+            height: 27px;
+            background-color: #FFFFCC;
+        }
+        .auto-style6 {
+            
+            font-size: x-large;
+            font-weight: 700;
+        }
+        .auto-style8 {
+            height: 1%;
+        }
+        table {
+        background: #00c6ff;  
+        background: -webkit-linear-gradient(to right, #0072ff, #00c6ff);
+        background: linear-gradient(to right, #0072ff, #00c6ff); /* uigradients.com/#FacebookMessenger */
+        color:white;
+        }
+        
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server" class="form-check border-bottom shadow p-3 mb-5 bg-body rounded">
+        <table style="width: 100%; height: 443px;" class="table table-bordered">
+            <tr>
+                <td class="auto-style8" style="border: thin groove #000000;" >
+                    <img alt="" src="bca.png" style="height: 52px; width: auto; margin-left: 0px;"
+                        <h1 style="height: 71px" class="auto-style6" >
+                        <asp:Label ID="Label1" runat="server" CssClass="auto-style6" Text="VIDYABHARTI TRUST COLLEGE OF BUSINESS, COMPUTER SCIENCE &amp; RESEARCH"></asp:Label>
+                    </h1>
+                    </img></td>
+                <br />                    
+            </tr>
+            <tr>
+                <td class="auto-style3" style="bgcolor; background-color: #00C6FF;">
+                    <asp:Menu ID="Menu1" runat="server" Orientation="Horizontal" class="navbar navbar-dark bg-dark" Width="100%" BorderStyle="None" CssClass="&quot;border-end&quot;">
+                        <Items>
+                           
+                            <asp:MenuItem Text="Home" Value="Home" NavigateUrl="~/Home.aspx"></asp:MenuItem>
+                            <asp:MenuItem Text="About Us" Value="About Us" NavigateUrl="~/aboutus.aspx"></asp:MenuItem>
+                            <asp:MenuItem Text="Contact Us" Value="Contact Us" NavigateUrl="~/contactus.aspx"></asp:MenuItem>
+                            <asp:MenuItem Text="Login" Value="Login" NavigateUrl="~/Login.aspx"></asp:MenuItem>
+                            <asp:MenuItem Text="Registration" Value="Registration" NavigateUrl="~/Register.aspx"></asp:MenuItem>
+                           
+                          </Items>
+                        <StaticMenuItemStyle HorizontalPadding="90px" />
+                    </asp:Menu>
+                </td>
+            </tr>
+            <tr>
+                <td class="auto-style2">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                       
+                    </asp:ContentPlaceHolder>
+                </td>
+            </tr>
+            <tr>
+                <td class="auto-style1" style="border-style: inset; border-width: thin">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <asp:Label ID="Label2" runat="server" style="font-size: medium" Text="ALL RIGHTS RESERVED TO VTCBCSR © 2022"></asp:Label>
+                    
+                </td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>

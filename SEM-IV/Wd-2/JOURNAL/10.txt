@@ -1,0 +1,31 @@
+<html>
+	<head>
+		<script src="jquery-3.6.0.js"></script>
+		<script>
+		$(document).ready(function(){
+		$("#btn1").click(function(){
+		alert("text:"+$("#test").text());
+		});
+		$("#btn2").click(function(){
+		alert("HTML:"+$("#test").html());
+		});
+		$("#btn3").click(function(){
+		alert("Att:"+$("img").attr("height"));
+		});
+		$("#btn4").click(function(){
+		alert("Value:"+$("#txts").val());
+		});
+		});
+		
+		</script>
+	</head>
+	<body>
+		<p id="test"><b>Hello,How Are You?</b></p>
+		<img src="img1.jpg" height="500">
+		<input type="text" id="txts">
+		<button id="btn1">Show Text</button>
+		<button id="btn2">Show Html</button>
+		<button id="btn3">Show Att</button>
+		<button id="btn4">Show Value</button>
+	</body>
+</html>

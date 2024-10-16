@@ -1,0 +1,10 @@
+D:\BCA\Sem-IV\VB.NET\Pro\swap\swap\bin\Debug\swap.exe.config
+D:\BCA\Sem-IV\VB.NET\Pro\swap\swap\bin\Debug\swap.exe
+D:\BCA\Sem-IV\VB.NET\Pro\swap\swap\bin\Debug\swap.pdb
+D:\BCA\Sem-IV\VB.NET\Pro\swap\swap\bin\Debug\swap.xml
+D:\BCA\Sem-IV\VB.NET\Pro\swap\swap\obj\Debug\swap.Form1.resources
+D:\BCA\Sem-IV\VB.NET\Pro\swap\swap\obj\Debug\swap.Resources.resources
+D:\BCA\Sem-IV\VB.NET\Pro\swap\swap\obj\Debug\swap.vbproj.GenerateResource.Cache
+D:\BCA\Sem-IV\VB.NET\Pro\swap\swap\obj\Debug\swap.exe
+D:\BCA\Sem-IV\VB.NET\Pro\swap\swap\obj\Debug\swap.xml
+D:\BCA\Sem-IV\VB.NET\Pro\swap\swap\obj\Debug\swap.pdb

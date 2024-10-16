@@ -1,0 +1,16 @@
+(1) Explain Javascript operators in detail.
+(2) Explain any 5 javascript string methods (syntax, example).
+(3) Explain getElementById in detail with proper example.
+(4) Write a javascript code to validate number.
+(5) Explain getElementsByName in detail with proper example.
+(6) Write a javascript code to validate name.
+(7) Explain different ways to create object in javascript.
+(8) Explain DOM methods.
+(9) Explain date constructor with example.
+(10) Explain DOM properties.
+(11) Explain Dialogue Boxes with proper example.
+(12) Write a javascript code to validate mobile number.
+(13) Explain UDF with proper example.
+(14) Write a javascript code to validate email.
+(15) Explain Javascript Data types with proper example.
+(16) Explain any 5 javascript string methods (syntax, example).

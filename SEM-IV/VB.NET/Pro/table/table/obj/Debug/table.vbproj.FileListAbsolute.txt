@@ -1,0 +1,10 @@
+D:\BCA\Sem-IV\VB.NET\Pro\table\table\bin\Debug\table.exe.config
+D:\BCA\Sem-IV\VB.NET\Pro\table\table\bin\Debug\table.exe
+D:\BCA\Sem-IV\VB.NET\Pro\table\table\bin\Debug\table.pdb
+D:\BCA\Sem-IV\VB.NET\Pro\table\table\bin\Debug\table.xml
+D:\BCA\Sem-IV\VB.NET\Pro\table\table\obj\Debug\table.Form1.resources
+D:\BCA\Sem-IV\VB.NET\Pro\table\table\obj\Debug\table.Resources.resources
+D:\BCA\Sem-IV\VB.NET\Pro\table\table\obj\Debug\table.vbproj.GenerateResource.Cache
+D:\BCA\Sem-IV\VB.NET\Pro\table\table\obj\Debug\table.exe
+D:\BCA\Sem-IV\VB.NET\Pro\table\table\obj\Debug\table.xml
+D:\BCA\Sem-IV\VB.NET\Pro\table\table\obj\Debug\table.pdb

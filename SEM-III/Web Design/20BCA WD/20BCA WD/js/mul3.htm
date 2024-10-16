@@ -1,0 +1,28 @@
+<!-- 
+WRITE A JAVASCRIPT CODE TO ACCEPT 3 NUMBERS FROM USER AND ON FORM SUBMISSION 
+DISPLAY MULTIPLICATION IN ANOTHER TEXTBOX
+-->
+<html>
+<head>
+<link rel="stylesheet" href="http://code.jquery.com/ui/1.9.1/themes/base/jquery-ui.css" />
+<script src="http://code.jquery.com/jquery-1.8.2.js"></script>
+<script src="http://code.jquery.com/ui/1.9.1/jquery-ui.js"></script>
+<script>
+	$(function() {
+var date = new Date();
+var currentMonth = date.getMonth();
+var currentDate = date.getDate();
+var currentYear = date.getFullYear();
+$('#datepicker').datepicker({
+maxDate: new Date(currentYear, currentMonth, currentDate)
+});
+});
+
+</script>
+</head>
+<body>
+<p>Date: <input type="text" id="datepicker" /></p>
+
+<input type="submit" value="click Me">
+</body>
+</html>

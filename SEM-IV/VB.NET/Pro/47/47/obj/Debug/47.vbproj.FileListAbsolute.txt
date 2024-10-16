@@ -1,0 +1,10 @@
+D:\BCA\Sem-IV\VB.NET\Pro\47\47\bin\Debug\47.exe.config
+D:\BCA\Sem-IV\VB.NET\Pro\47\47\bin\Debug\47.exe
+D:\BCA\Sem-IV\VB.NET\Pro\47\47\bin\Debug\47.pdb
+D:\BCA\Sem-IV\VB.NET\Pro\47\47\bin\Debug\47.xml
+D:\BCA\Sem-IV\VB.NET\Pro\47\47\obj\Debug\_47.Form1.resources
+D:\BCA\Sem-IV\VB.NET\Pro\47\47\obj\Debug\_47.Resources.resources
+D:\BCA\Sem-IV\VB.NET\Pro\47\47\obj\Debug\47.vbproj.GenerateResource.Cache
+D:\BCA\Sem-IV\VB.NET\Pro\47\47\obj\Debug\47.exe
+D:\BCA\Sem-IV\VB.NET\Pro\47\47\obj\Debug\47.xml
+D:\BCA\Sem-IV\VB.NET\Pro\47\47\obj\Debug\47.pdb

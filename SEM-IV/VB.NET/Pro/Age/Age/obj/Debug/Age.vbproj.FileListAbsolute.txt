@@ -1,0 +1,10 @@
+D:\BCA\Sem-IV\VB.NET\Pro\Age\Age\bin\Debug\Age.exe.config
+D:\BCA\Sem-IV\VB.NET\Pro\Age\Age\obj\Debug\Age.Form1.resources
+D:\BCA\Sem-IV\VB.NET\Pro\Age\Age\obj\Debug\Age.Resources.resources
+D:\BCA\Sem-IV\VB.NET\Pro\Age\Age\obj\Debug\Age.vbproj.GenerateResource.Cache
+D:\BCA\Sem-IV\VB.NET\Pro\Age\Age\bin\Debug\Age.exe
+D:\BCA\Sem-IV\VB.NET\Pro\Age\Age\bin\Debug\Age.pdb
+D:\BCA\Sem-IV\VB.NET\Pro\Age\Age\bin\Debug\Age.xml
+D:\BCA\Sem-IV\VB.NET\Pro\Age\Age\obj\Debug\Age.exe
+D:\BCA\Sem-IV\VB.NET\Pro\Age\Age\obj\Debug\Age.xml
+D:\BCA\Sem-IV\VB.NET\Pro\Age\Age\obj\Debug\Age.pdb
